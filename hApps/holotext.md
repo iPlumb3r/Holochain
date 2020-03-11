@@ -3,7 +3,7 @@ holotext
 
 A collaborative Text Editor
 
-Install Holoscape
+Install Holoscape : https://github.com/iPlumb3r/Holochain/tree/master/Applications
 
 Select "holo.txt" hApp in the "store"
 
