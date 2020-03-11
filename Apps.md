@@ -13,7 +13,7 @@ List of tried and/or used hApps :
     <tbody>
         <tr>
             <td>holo.txt</td>
-            <td>Collaborativ Text Editor</td>
+            <td>Collaborative Text Editor</td>
             <td>My Hello World text ID : QmcHy7114XkMgaCj69e4tax69dpHqFVs1szAfdDre8hQqd</td>
         </tr>
     </tbody>
