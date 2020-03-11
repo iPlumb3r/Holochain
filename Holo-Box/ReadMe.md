@@ -1,7 +1,7 @@
 Holo-Box
 ==
 
-This section is about "how to build a box" for hosting hApps
+This section is about "how to DIY a box for hosting hApps" ?
 
 Work In Process ...
 
