@@ -12,9 +12,10 @@ List of tried and/or used hApps :
     </thead>
     <tbody>
         <tr>
-            <td>holo.txt</td>
+            <td><a href="https://github.com/iPlumb3r/Holochain/blob/master/hApps/holotext.md">holo.txt</a></td>
             <td>Collaborative Text Editor</td>
             <td>My Hello World text ID : QmcHy7114XkMgaCj69e4tax69dpHqFVs1szAfdDre8hQqd</td>
         </tr>
     </tbody>
 </table>
+
