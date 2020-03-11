@@ -5,7 +5,7 @@ En fait cela revient à permettre à chacun de jouer tous les rôles (banquier E
 
 Ce qui se passe si on emprunte 100.000 Euros à une banque pour acheter un appartement :
 
-    en fait la banque ne dispose pas réellement de ces 100.000 Euros, mais elle inscrit à notre compte une écriture de -100.000 Euros que l’on doit ensuite rembourser en "vrais" Euros).
+en fait la banque ne dispose pas réellement de ces 100.000 Euros, mais elle inscrit à notre compte une écriture de -100.000 Euros que l’on doit ensuite rembourser en "vrais" Euros).
 
 C’est d’une certaine manière le même principe que la mutuelle ou la coopérative (où chacun est à la fois sociétaire et client), mais appliqué à la gouvernance de la monnaie.
 
@@ -17,6 +17,6 @@ Dans le cas du projet HOLO, le système de crédit mutuel est utilisé pour les 
 Remarque : l’entreprise HOLO va assumer l’ensemble du débit généré par les Holo Fuel qui seront crédités aux utilisateurs en échange des $HOT (qui jouent juste le rôle de tokens intermédiaire, le temps que le réseau HOLO se mette en place).
 Resources
 
-https://holo.host/holo-fuel/
-https://holochain.fr/
-https://twitter.com/lifesmyth/status/1228850478953484290
+https://holo.host/holo-fuel/.  
+https://holochain.fr/.  
+https://twitter.com/lifesmyth/status/1228850478953484290.  
