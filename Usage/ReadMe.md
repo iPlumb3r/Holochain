@@ -1,7 +1,7 @@
 Usage
 ==
 
-Backup Holochain Data
+How to Backup your Data created with hApps from Holoscape
 -
 
 __Mac__ :
