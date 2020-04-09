@@ -86,7 +86,7 @@ __En anglais__ :
 * <a href="https://unblock.net/introduction-holochain/">Introduction to Holochain, A Post-Blockchain Crypto Technology</a>
 * <a href="https://twitter.com/DecentralEvery/status/1090349509077434368">The Essential Holochain Tweet Storm !</a>
 
-Informations
+Info / News
 -
 
 <table>
