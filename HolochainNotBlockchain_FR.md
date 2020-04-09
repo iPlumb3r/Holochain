@@ -86,6 +86,36 @@ __En anglais__ :
 * <a href="https://unblock.net/introduction-holochain/">Introduction to Holochain, A Post-Blockchain Crypto Technology</a>
 * <a href="https://twitter.com/DecentralEvery/status/1090349509077434368">The Essential Holochain Tweet Storm !</a>
 
+Informations
+-
+
+<table>
+    <thead>
+        <tr>
+            <th>Projet</th>
+            <th>Twitter</th>
+            <th>Telegram</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="http://metacurrency.org/">MetaCurrency</a></td>
+            <td><a href="https://twitter.com/metacurrency">https://twitter.com/metacurrency</a></td>
+            <td>N/A/td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/holochain">Holochain</a></td>
+            <td><a href="https://twitter.com/holochain">https://twitter.com/holochain</a></td>
+            <td><a href="https://t.me/holochain">https://t.me/holochain</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://holo.host/">Holo.host</a></td>
+            <td><a href="https://twitter.com/holochain">https://twitter.com/H_O_L_O_</a></td>
+            <td><a href="https://t.me/holohosting">https://t.me/holohosting</a></td>
+        </tr>
+    </tbody>
+</table>
+
 Glossaire
 -
 ![Holochain VS Blockchain](https://github.com/iPlumb3r/Holochain/blob/master/images/Holochain_Glossary_2020-02-18.png)
