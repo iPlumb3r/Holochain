@@ -101,7 +101,7 @@ Informations
         <tr>
             <td><a href="http://metacurrency.org/">MetaCurrency</a></td>
             <td><a href="https://twitter.com/metacurrency">https://twitter.com/metacurrency</a></td>
-            <td>N/A/td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/holochain">Holochain</a></td>
