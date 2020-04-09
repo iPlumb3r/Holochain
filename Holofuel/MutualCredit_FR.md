@@ -19,4 +19,5 @@ Resources
 
 https://holo.host/holo-fuel/.  
 https://holochain.fr/.  
+https://medium.com/holochain/the-holocene-explosion-2-3-game-changing-possibilities-in-a-world-of-unenclosable-carriers-7c1a97f32e9c   
 https://twitter.com/lifesmyth/status/1228850478953484290.  
