@@ -79,6 +79,9 @@ __En français__ :
 * <a href="https://noubel.com/holochain-vers-lintelligence-sociale-augmentee/">Vers l’intelligence sociale augmentée</a> (Jean-François Noubel)
 * <a href="https://medium.com/@raphaelbriner/holochain-pour-les-presque-nuls-4d109709c1f1">Holochain pour les -presque- nuls</a> (Raphael Briner)
 * <a href="https://medium.com/@doute.d/holochain-vers-un-internet-v%C3%A9ritablement-d%C3%A9centralis%C3%A9-d976a5bff3ae">Holochain : vers un internet véritablement décentralisé</a> (Damien Douté)
+* <a href="https://www.youtube.com/watch?v=M3LCChMfgNo">Evolution des monnaies, évolution de notre espèce</a> (Jean-François Noubel)
+* <a href="https://www.youtube.com/watch?v=TWA8pgito64">Vers l’intelligence sociale augmentée et la nouvelle économie (1)</a> (Jean-François Noubel)
+* <a href="https://www.youtube.com/watch?v=IeeZ7qTBjeI">Vers l’intelligence sociale augmentée et la nouvelle économie (2)</a> (Jean-François Noubel)
 
 __En anglais__ : 
 * <a href="https://medium.com/holochain/unenclosable-carriers-and-the-future-of-communication-4ac6045ac894">Unenclosable Carriers and the Future of Communication</a>" (Art Brock)
