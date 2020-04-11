@@ -88,6 +88,7 @@ __En anglais__ :
 * <a href="https://medium.com/h-o-l-o/heres-holochain-in-100-200-and-500-words-509818aa3c88">Holochain in few words (100, 200 & 500 words)</a>
 * <a href="https://unblock.net/introduction-holochain/">Introduction to Holochain, A Post-Blockchain Crypto Technology</a>
 * <a href="https://twitter.com/DecentralEvery/status/1090349509077434368">The Essential Holochain Tweet Storm !</a>
+* <a href="https://medium.com/holochain/the-holocene-explosion-2-3-game-changing-possibilities-in-a-world-of-unenclosable-carriers-7c1a97f32e9c">Creating Financial Systems That Work for Everyone</a>" (Art Brock)
 
 Info / News
 -
