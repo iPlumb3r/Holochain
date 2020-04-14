@@ -25,6 +25,4 @@ Resources
 
 * <a href="https://medium.com/@cloudthings/holofuel-the-worlds-first-price-stable-digital-asset-b97c2de95905">HoloFuel The worlds first price stable digital asset.</a>   
 * <a href="https://medium.com/@cloudthings/holofuel-the-worlds-first-price-stable-digital-asset-b97c2de95905">Creating Financial Systems That Work for Everyone</a>   
-* https://holo.host/holo-fuel/.  
-* https://holochain.fr/.  
 * https://twitter.com/lifesmyth/status/1228850478953484290.  
