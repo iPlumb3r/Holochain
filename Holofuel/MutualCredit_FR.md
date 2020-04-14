@@ -1,5 +1,8 @@
 Credit Mutuel (note)
+==
+
 Generalités
+-
 
 En fait cela revient à permettre à chacun de jouer tous les rôles (banquier ET client) alors que dans un système classique, seules les banques ont le privilège de faire crédit.
 
