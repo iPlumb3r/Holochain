@@ -17,7 +17,10 @@ Dans le cas du projet HOLO, le système de crédit mutuel est utilisé pour les 
 Remarque : l’entreprise HOLO va assumer l’ensemble du débit généré par les Holo Fuel qui seront crédités aux utilisateurs en échange des $HOT (qui jouent juste le rôle de tokens intermédiaire, le temps que le réseau HOLO se mette en place).
 Resources
 
+
+<a href="https://medium.com/@cloudthings/holofuel-the-worlds-first-price-stable-digital-asset-b97c2de95905">HoloFuel The worlds first price stable digital asset.</a>   
+<a href="<a href="https://medium.com/@cloudthings/holofuel-the-worlds-first-price-stable-digital-asset-b97c2de95905">Creating Financial Systems That Work for Everyone</a>   
 https://holo.host/holo-fuel/.  
 https://holochain.fr/.  
-https://medium.com/holochain/the-holocene-explosion-2-3-game-changing-possibilities-in-a-world-of-unenclosable-carriers-7c1a97f32e9c   
+
 https://twitter.com/lifesmyth/status/1228850478953484290.  
