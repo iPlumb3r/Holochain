@@ -4,8 +4,9 @@ Credit Mutuel (note)
 Generalités
 -
 
-En fait cela revient à permettre à chacun de jouer tous les rôles (banquier ET client) alors que dans le système actuel, seules les banques ont le privilège de faire crédit et de créer au passage de l'argent "ex-nihilo".   
-> De l'argent "magique" quoi !
+En fait cela revient à permettre à chacun de jouer tous les rôles (banquier ET client) alors que dans le système actuel, seules les banques ont le privilège de faire crédit ...    
+... et de créer au passage de l'argent "ex-nihilo" !   
+> De l'argent "magique" quoi ;-)
 
 Ce qui se passe si on emprunte 100.000 Euros à une banque pour acheter un appartement :
 
