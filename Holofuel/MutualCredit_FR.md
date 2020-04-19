@@ -13,10 +13,9 @@ Ce qui se passe si on emprunte 100.000 Euros à une banque pour acheter un appar
 * ... Mais elle inscrit à notre compte une écriture de -100.000 Euros que l’on doit ensuite rembourser en "vrais" Euros.
 
 C’est d’une certaine manière le même principe que la mutuelle ou la coopérative (où chacun est à la fois sociétaire et client), mais appliqué à la gouvernance de la monnaie.
-
-Cela explique pourquoi la notion de « supply » n’est pas vraiment pertinente pour ce type de système économique.
-Cas d'Holo Fuel
 > Il s'agit d'un "jeu" à somme nulle
+
+Cela explique pourquoi la notion de « supply » n’est pas vraiment pertinente pour ce type de système économique contrairement aux "crypto" classiques ...
 
 Dans le cas du projet <a href="https://holo.host/">Holo.Host</a> 
 , le système de crédit mutuel est utilisé pour les Holo Fuel, afin de faire vivre le système entre les HoloPorts et ceux qui souhaitent proposer des services sur Holochain.
