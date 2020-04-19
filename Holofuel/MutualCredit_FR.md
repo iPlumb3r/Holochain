@@ -18,9 +18,10 @@ Cela explique pourquoi la notion de « supply » n’est pas vraiment pertinente
 Cas d'Holo Fuel
 > Il s'agit d'un "jeu" à somme nulle
 
-Dans le cas du projet HOLO, le système de crédit mutuel est utilisé pour les Holo Fuel, afin de faire vivre le système entre les HoloPorts et ceux qui souhaitent proposer des services sur Holochain.
+Dans le cas du projet <a href="https://holo.host/">Holo.Host</a> 
+, le système de crédit mutuel est utilisé pour les Holo Fuel, afin de faire vivre le système entre les HoloPorts et ceux qui souhaitent proposer des services sur Holochain.
 
-Remarque : l’entreprise HOLO va assumer l’ensemble du débit généré par les Holo Fuel qui seront crédités aux utilisateurs en échange des $HOT (qui jouent juste le rôle de tokens intermédiaire, le temps que le réseau HOLO se mette en place).
+Remarque : l’entreprise Holo va assumer l’ensemble du débit généré par les Holo Fuel qui seront crédités aux utilisateurs en échange des $HOT (qui jouent juste le rôle de tokens intermédiaire, le temps que le réseau HOLO se mette en place).
 
 
 Resources
