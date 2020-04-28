@@ -114,7 +114,7 @@ Info / News
         </tr>
         <tr>
             <td><a href="https://holo.host/">Holo.host</a></td>
-            <td><a href="https://twitter.com/holochain">https://twitter.com/H_O_L_O_</a></td>
+            <td><a href="https://twitter.com/H_O_L_O_">https://twitter.com/H_O_L_O_</a></td>
             <td><a href="https://t.me/holohosting">https://t.me/holohosting</a></td>
         </tr>
     </tbody>
