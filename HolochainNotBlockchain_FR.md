@@ -85,6 +85,7 @@ __En français__ :
 
 __En anglais__ : 
 * <a href="https://medium.com/holochain/unenclosable-carriers-and-the-future-of-communication-4ac6045ac894">Unenclosable Carriers and the Future of Communication</a>" (Art Brock)
+* <a href="https://medium.com/holochain/unleashing-the-power-of-unenclosable-carriers-and-how-holochain-can-help-1a4d443aa844">Unleashing the Power of Unenclosable Carriers (and How Holochain Can Help)</a>" (Art Brock)
 * <a href="https://medium.com/h-o-l-o/heres-holochain-in-100-200-and-500-words-509818aa3c88">Holochain in few words (100, 200 & 500 words)</a>
 * <a href="https://unblock.net/introduction-holochain/">Introduction to Holochain, A Post-Blockchain Crypto Technology</a>
 * <a href="https://twitter.com/DecentralEvery/status/1090349509077434368">The Essential Holochain Tweet Storm !</a>
