@@ -30,6 +30,7 @@ Resources
 
 * <a href="https://medium.com/@cloudthings/holofuel-the-worlds-first-price-stable-digital-asset-b97c2de95905">HoloFuel The worlds first price stable digital asset.</a>   
 * <a href="https://medium.com/holochain/the-holocene-explosion-2-3-game-changing-possibilities-in-a-world-of-unenclosable-carriers-7c1a97f32e9c">Creating Financial Systems That Work for Everyone</a> 
+* <a href="https://blog.holochain.org/mutual-credit-part-1-a-new-type-of-cryptocurrency-as-old-as-civilisation/">A New Type of Cryptocurrency, As Old As Civilisation (Part 1)</a> 
 
 Tweets
 -
