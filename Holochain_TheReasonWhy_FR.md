@@ -12,22 +12,27 @@ Elles sont multiples et prennent racine dans des disciplines très variées :
    - Mathématiques
 
 
-## En bref
+## En bref : le fil rouge ...
+La vision qui à conduit à l'émergence d'Holochain vient de la volonté de pouvoir fonctionner à l'échelle de la planète comme dans un village ...
 
 
 ## Passer à l'échelle
 
-<a href="https://www.youtube.com/watch?v=un5PJkTGCoY">De l'Homo Sapiens à l'Holo Sapiens</a> (Jean-François Noubel)
+Les video suivantes de <a href="https://noubel.com/">Jean-François Noubel</a> permettent de bien comprendre la transition sociétale qui est en train de s'opérer.
+Les disciplines à l'oeuvre ici sont essentiellement l'intelligence collective, l'économie en générale et ses aspects monétaires en particulier.
 
-<a href="https://www.youtube.com/watch?v=6T2xgUCp9W0">L'Argent, une technologie devenu toxique</a> (Jean-François Noubel)
+<a href="https://www.youtube.com/watch?v=un5PJkTGCoY">De l'Homo Sapiens à l'Holo Sapiens</a> 
 
-<a href="https://www.youtube.com/watch?v=ihyrvBADlkI&list=PLMgJ9UQjGoTHDZp_PyOmALCy_hKpWWiql">L'économie post-argent</a> (Jean-François Noubel)
+<a href="https://www.youtube.com/watch?v=6T2xgUCp9W0">L'Argent, une technologie devenu toxique</a>
 
+<a href="https://www.youtube.com/watch?v=ihyrvBADlkI&list=PLMgJ9UQjGoTHDZp_PyOmALCy_hKpWWiql">L'économie post-argent</a> 
 
-## Passer à l'échelle
 
 
 ## Unenclosable carrier
 
+La sé
 
+
+## Biomimetrisme
 
