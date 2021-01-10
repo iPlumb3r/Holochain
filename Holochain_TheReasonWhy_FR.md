@@ -1,15 +1,16 @@
 # Les motivations de l'initiative Holochain
 
 ## Préambule
-Pour comprendre #Holochain plus en avant que son simple status de _protocole permettant de développer des applications distribuées_, ...   
-... il est nécessaire de comprendre d'abord les motivations qui ont conduit à sa génèse.
+Pour comprendre #Holochain plus en avant que son simple status de __protocole permettant de développer des applications distribuées__, ...   
+... il est nécessaire au préalable de comprendre les motivations qui ont conduit à sa génèse.
 
-Elles sont multiples et prennent racine dans des disciplines très variées : 
-   - Intelligence collective
-   - Economie et aspect monétaire
-   - Communication et réseaux
-   - Biologie
-   - Mathématiques
+Elles sont multiples et prennent racine au coeur de disciplines très variées : 
+* Intelligence collective
+* Economie et aspect monétaire
+* Communication et réseaux
+* Biologie
+* Mathématiques
+* 
 
 
 ## En bref : le fil rouge ...
