@@ -19,7 +19,7 @@ La vision qui à conduit à l'émergence d'Holochain vient de la volonté de pou
 ## Passer à l'échelle
 
 Les video suivantes de <a href="https://noubel.com/">Jean-François Noubel</a> permettent de bien comprendre la transition sociétale qui est en train de s'opérer.
-Les disciplines à l'oeuvre ici sont essentiellement l'intelligence collective, l'économie en générale et ses aspects monétaires en particulier.
+> Les disciplines à l'oeuvre ici sont essentiellement l'intelligence collective, l'économie en générale et ses aspects monétaires en particulier.
 
 <a href="https://www.youtube.com/watch?v=un5PJkTGCoY">De l'Homo Sapiens à l'Holo Sapiens</a> 
 
