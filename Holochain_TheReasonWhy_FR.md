@@ -17,11 +17,11 @@ Elles sont multiples et prennent racine dans des disciplines très variées :
 
 ## Passer à l'échelle
 
-De l'Homo Sapiens à l'HoloSapiens (Jean-François Noubel)
+<a href="https://www.youtube.com/watch?v=un5PJkTGCoY">De l'Homo Sapiens à l'Holo Sapiens</a> (Jean-François Noubel)
 
-L'Argent, une technologie devenu toxique (Jean-François Noubel)
+<a href="https://www.youtube.com/watch?v=6T2xgUCp9W0">L'Argent, une technologie devenu toxique</a> (Jean-François Noubel)
 
-Vers une société post-argent (Jean-François Noubel)
+<a href="https://www.youtube.com/watch?v=ihyrvBADlkI&list=PLMgJ9UQjGoTHDZp_PyOmALCy_hKpWWiql">L'économie post-argent</a> (Jean-François Noubel)
 
 
 ## Passer à l'échelle
