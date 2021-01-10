@@ -24,13 +24,13 @@ Les video suivantes de <a href="https://noubel.com/">Jean-François Noubel</a> p
 
 <a href="https://www.youtube.com/watch?v=un5PJkTGCoY">De l'Homo Sapiens à l'Holo Sapiens</a>
 > Cette video présente les différents types d'intelligence collective (Tribal => Pyramidal => Holomidal) qui se sont succédés dans l'histoire de l'humanité. Il démontre que le système "Pyramidal" (qui incarne le mode de fonctionnement de l'écrasante majorité des organisations actuelles : états, entreprises, religions, ...) a atteint ses propres limites et qu'il ne peux plus faire face aux enjeux "systémiques" d'aujourd'hui ... et qui est grand temps de s'organiser en mode "Holomidal". 
-> Il est a noter que l'Argent tel que nous le connaissons aujourdh'hui est une technologie qui est nait en même temps que le mode "Pyramidal" car dans le contexte du mode "Tribal" les humains utilisaient plus volontier de système à base de "crédit mutuel" !
+> Il est a noter que l'argent tel que nous le connaissons aujourdh'hui est une technologie qui est nait en même temps que le mode "Pyramidal" car dans le contexte du mode "Tribal" les humains utilisaient plus volontier de système à base de "crédit mutuel" !
 
-<a href="https://www.youtube.com/watch?v=6T2xgUCp9W0">L'Argent, une technologie devenu toxique</a>
+<a href="https://www.youtube.com/watch?v=6T2xgUCp9W0">L'argent, une technologie devenu toxique</a>
 > Cette video montre que l'argent tel que nous le connaissons est une monnaie dite "rare" qui oblige à créer de la compétition entre les individus et qu'en parallèle il impacte le monde d'un manière qui n'est pas souhaitable (problème sociétaux, environnementaux, climatique, ...)
 
 <a href="https://www.youtube.com/watch?v=ihyrvBADlkI&list=PLMgJ9UQjGoTHDZp_PyOmALCy_hKpWWiql">L'économie post-argent</a> 
-> Cette video nous aide à sortir de "ghetto mental" de l'argent d'aujoud'hui proposant de nouvelles monaies accompagnant de nouveaux typex de fonctionnnement
+> Cette video nous aide à sortir de "ghetto mental" de l'argent d'aujoud'hui en proposant de nouvelles monnaies accompagnant de nouveaux types de fonctionnnement
 
 
 ## Unenclosable carrier
