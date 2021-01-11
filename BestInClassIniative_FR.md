@@ -106,14 +106,49 @@ Si on se donne un peu la peine de chercher, on se rend compte que "mine de rien"
 <table>
     <thead>
         <tr>
-            <th>Label</th>
-            <th>Description</th>
-            <th>Comment</th>
+            <th>Organisation</th>
+            <th>Document</th>
+            <th>Commentaires</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>A1</td>
+            <td>World Economic Forum (WEF)</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>United Nation (UN)</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>European Commision/td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>H2020 Project</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>Club de Rome</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>Bill & Melinda Gates Foundation</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>Bretton Woods 75 Committee</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>Bretton Woods 75 Committee</td>
             <td>A2</td>
             <td>A3</td>
         </tr>
