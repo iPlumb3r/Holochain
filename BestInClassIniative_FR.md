@@ -68,25 +68,38 @@ Dans cette section l'idée est de montrer que l'initiative #Holochain est pertin
 
 
 ### Aspect Finalité
-> "Pourquoi Holochain à t-il été imaginé ?"
+> "Pourquoi Holochain a t-il été imaginé ?"
 
 En bref, on peut dire que la raison d'être de l'écosystème <a href="http://metacurrency.org/">MetaCurrency</a> / <a href="http://holochain.org/">Holochain</a>  / <a href="http://holo.host/">HOLO</a> est de fournir les outils permettant à des __communautés qui partagent des valeurs__ ou des intérêts communs de __pouvoir se coordonner à large échelle__.
 
-C'est un programme multi-disciplinaire, large et profond, aux ramifications multiples et variée ...
+C'est un programme multi-disciplinaire, large et profond, aux ramifications multiples et variées ...
 ... qui tranche avec la simplicité de la finalité de #Bitcoin qui est d'être une réserve de valeur (aka "digital gold")
 
 ### Aspect Fonctionel
-Cet aspect est relatif à "Qu'est-ce que Holochain ?"
+> "Qu'est-ce que Holochain ?"
 
+Ce point à été largement abordé dans la 1ere partie de ce document.
+On peut compléter
 
 ### Aspect Technique
-Cet aspect est relatif à "Comment Holochain àt-il été implementé ?"
+> "Comment Holochain a t-il été implementé ?"
+
+Holochain à fait l'objet d'un 1er prototype jettable en Go et d'un 2nd en Rust nommé "Redux" ...   
+... puis ifnallement d'une version opérationelle, égalemen en Rust, nommé "RSM" (Refractored State Model)
+
 
 ### Aspect Stratégique
-Cet aspect est relatif à "Quel sont les choix qui ont été fait ?"
+> "Quel sont les choix qui ont été fait ?"
+
+Contrairement aux autre projets de la cryptosphère, l'équipe Holochain :
+* à préféré la qualité du code livré aux délais de livraison
+* à favorisé la communication auprès des développeurs plutôt qu'auprès des investisseurs
+* se projette pluôt surle moyen-long terme plutôt que sur le court terme
+
+Ces choix lui ont souvent été reproché, mais les résultats commence à être au rendez-vous
 
 ### Aspect Politique
-Cet aspect est relatif à "Quel sont les sponsors de Holochain ?"
+> "Qui supporte Holochain ?"
 
 ### Aspect Opérationel
-Cet aspect est relatif à "Quel sont les utilisateurs de Holochain ?"
+> "Quel sont les utilisateurs de Holochain ?"
