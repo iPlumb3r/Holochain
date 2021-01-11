@@ -125,32 +125,32 @@ Si on se donne un peu la peine de chercher, on se rend compte que "mine de rien"
         <tr>
             <td>European Commision</td>
             <td><a href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC121675/jrc121675_dlt4good_scanning_the_european_ecosystem_online.pdf">Scanning the European Ecosystem of Distributed Ledger Technologiesfor Social & Public Good</a></td>
-            <td>A3</td>
+            <td>Appel à intéret</td>
         </tr>
         <tr>
             <td>H2020 Project</td>
             <td><a href="https://www.buyholo.net/pdf/horizon2020-interacting-decentralized-transactional-and-ledger-architecture-for-mutual-credit.pdf">Specification "Interacting Decentralized Transactional and Ledger Architecture for Mutual Credit"</a></td>
-            <td>A3</td>
+            <td>Spécification technique</td>
         </tr>
         <tr>
             <td>Club de Rome</td>
             <td><a href="https://r3dot0.medium.com/r3-0-2020-conference-exploring-the-third-thematic-thread-value-circularity-5c4a8cc62ec0">Exploring the Third Thematic Thread — Value & Circularity</a></td>
-            <td>A3</td>
+            <td>Colloque</td>
         </tr>
         <tr>
             <td>Bill & Melinda Gates Foundation</td>
             <td><a href="https://project1800.org/wp-content/uploads/2018/04/Project-1800.pdf">Project 1800 "Towards a market network for a water-secure world"</a></td>
-            <td>Initiative dedicated to solve the UN SDG #6</td>
+            <td>Initiative dédiée à répondre au SDG n°6</td>
         </tr>
         <tr>
             <td>Bretton Woods 75 Committee</td>
             <td><a href="https://www.brettonwoods75.org/">Report "Exploring the future of global economics"</a></td>
-            <td>A3</td>
+            <td></td>
         </tr>
         <tr>
             <td>Bretton Woods 75 Committee</td>
             <td><a href="https://www.linkedin.com/pulse/bretton-woods-75-new-money-world-dr-mihaela-ulieru/">Report "A new money for a new world"</a></td>
-            <td>A3</td>
+            <td>Compte-Rendu</td>
         </tr>
     </tbody>
 </table>
@@ -169,5 +169,5 @@ En plus de ces références documentaires :
 Ce sont des communautés de terrain qui ont généralement besoin d'une monnaie basée sur du crédit mutuel pour faire face aux besoins économiques de leur territoire.   
 > Holochain a réalisé un grand nombre de "Hackatlons" depuis 2017 pour prototyper des solutions répondant à ces besoins    
 
-Ex : <a href="http://www.darvoz.org/">darVOZ"</a>
+Ex : <a href="http://www.darvoz.org/">darVOZ</a>
 
