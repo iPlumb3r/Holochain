@@ -144,12 +144,12 @@ Si on se donne un peu la peine de chercher, on se rend compte que "mine de rien"
         </tr>
         <tr>
             <td>Bretton Woods 75 Committee</td>
-            <td><a href="http://holo.host/">HOLO</a></td>
+            <td><a href="https://www.brettonwoods75.org/">Report "Exploring the future of global economics"</a></td>
             <td>A3</td>
         </tr>
         <tr>
             <td>Bretton Woods 75 Committee</td>
-            <td><a href="http://holo.host/">HOLO</a></td>
+            <td><a href="https://www.linkedin.com/pulse/bretton-woods-75-new-money-world-dr-mihaela-ulieru/">Report "A new money for a new world"</a></td>
             <td>A3</td>
         </tr>
     </tbody>
