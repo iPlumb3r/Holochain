@@ -123,7 +123,7 @@ Si on se donne un peu la peine de chercher, on se rend compte que "mine de rien"
             <td>A3</td>
         </tr>
         <tr>
-            <td>European Commision/td>
+            <td>European Commision</td>
             <td>A2</td>
             <td>A3</td>
         </tr>
