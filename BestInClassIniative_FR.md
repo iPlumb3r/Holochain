@@ -114,42 +114,42 @@ Si on se donne un peu la peine de chercher, on se rend compte que "mine de rien"
     <tbody>
         <tr>
             <td>World Economic Forum (WEF)</td>
-            <td>A2</td>
-            <td>A3</td>
+            <td><a href="https://www.weforum.org/agenda/2018/04/blockchain-survive-backlash-social-purpose-jem-bendall/">Blockchain is facing a backlash. Can it survive ?</a></td>
+            <td>Holochain is identified as a project conscious about its total social impact</td>
         </tr>
         <tr>
             <td>United Nation (UN)</td>
-            <td>A2</td>
-            <td>A3</td>
+            <td><a href="https://sphaera.world/wp-content/uploads/2018/03/Billions%20to%20Trillions.pdf">From Billions To Trillions</a></td>
+            <td>An initiative dedicated to solve UN SDGs (Sustainable Development Goals)</td>
         </tr>
         <tr>
             <td>European Commision</td>
-            <td>A2</td>
+            <td><a href="http://holo.host/">HOLO</a></td>
             <td>A3</td>
         </tr>
         <tr>
             <td>H2020 Project</td>
-            <td>A2</td>
+            <td><a href="http://holo.host/">HOLO</a></td>
             <td>A3</td>
         </tr>
         <tr>
             <td>Club de Rome</td>
-            <td>A2</td>
+            <td><a href="http://holo.host/">HOLO</a></td>
             <td>A3</td>
         </tr>
         <tr>
             <td>Bill & Melinda Gates Foundation</td>
-            <td>A2</td>
+            <td><a href="http://holo.host/">HOLO</a></td>
             <td>A3</td>
         </tr>
         <tr>
             <td>Bretton Woods 75 Committee</td>
-            <td>A2</td>
+            <td><a href="http://holo.host/">HOLO</a></td>
             <td>A3</td>
         </tr>
         <tr>
             <td>Bretton Woods 75 Committee</td>
-            <td>A2</td>
+            <td><a href="http://holo.host/">HOLO</a></td>
             <td>A3</td>
         </tr>
     </tbody>
