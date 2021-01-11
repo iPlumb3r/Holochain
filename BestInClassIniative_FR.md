@@ -9,7 +9,7 @@ Suite à un <a href="https://github.com/iPlumb3r/Holochain/blob/master/Holochain
 Holochain au sens strict n'est qu'un protocole permettant de développer des applications distribuées ...   
 ... mais il est important de re-situer cela dans un contexte plus large en comprennant "à quoi il va servir".
 
-En effet, par effet induit, ce protocole va permettre l'avènement du nouvel Internet (Cf § "... NextNet ...") totalement distribué au sein duquel des applications "user centric" pourront s'exécuter (Cf § "... hApp ...") et dont certaines d'entre-elles seront motorisés par un nouveau type de crypto-monnaies (Cf § ... monnaie ...) 
+En effet, par effet induit, ce protocole va permettre l'avènement d'un nouvel Internet (Cf § "... NextNet ...") totalement distribué au sein duquel des applications "user-centric" pourront s'exécuter (Cf § "... hApp ...") et dont certaines d'entre-elles seront motorisées par un nouveau type de crypto-monnaies (Cf § ... monnaie ...) 
 
 ### Vers un "NextNet" totalement distribué
 Le réseau consitué par les HoloPorts est un réseau totalement distribué (et pas seulement décentralisé) qui fonctionnement en mode "pair à pair".
