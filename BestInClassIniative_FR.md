@@ -2,7 +2,7 @@
 
 ## Introduction
 Suite à un <a href="https://github.com/iPlumb3r/Holochain/blob/master/HolochainNotBlockchain_FR.md">précédent article sur Holochain</a> visant surtout à mettre l'accent sur "ce en quoi #Holochain diffère de la #Blockchain", j'ai souhaité dans ce nouvel article :
-* D'une part éclairer le spectre des differentes facettes de cette iniative
+* D'une part éclairer le spectre des differentes facettes de cette initiative
 * D'autre part montrer la pertinence de chaque aspect du projet
 
 ## Une initiative "multi-facettes"
