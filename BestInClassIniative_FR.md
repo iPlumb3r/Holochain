@@ -25,8 +25,8 @@ A terme il sera même possible d'installer le logiciel nécessaire pour transfor
 
 
 ### Vers la construction de hAPPs en mode "user-centric"
-Ensuite __#Holochain__ permettra de développer pour ce réseau des applications totalement distribuées.
-* Les personnes ayant un "Holo Node" (que se soit un HoloPort original ou bien un "Holo Node" fabriqué et/ou paramétré par leur soins) pourront utiliser ces applications (dites hApps) directement en mode P2P.   
+Ensuite __#Holochain__ permettra de développer pour ce réseau des applications totalement distribuées
+* Les personnes ayant un "Holo Node" (que se soit un HoloPort original ou bien un "Holo Node" fabriqué et/ou paramétré par leur soins) pourront utiliser ces applications (dites "hApps") directement en mode P2P.   
 * Ceux ne disposant pas de "Holo Node" pourront via la plateforme Holo.host (aka "HOLO") accéder à ces mêmes applications.   
 (En contre-partie de ce service, Holo.host demandera 1% de commission en Holo Fuel aux créateurs de hApps).      
 > HOLO est donc une passerelle entre le web "normal" (tel qu'on le connais aujourd'hui) et le futur Internet.   
