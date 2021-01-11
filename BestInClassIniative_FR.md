@@ -36,7 +36,7 @@ Contrairement à l'approche __#Blockchain__ ("data-centric") qui nécessite d'ex
 Il en résulte une scalabilité qui augmente proportionnelement avec le nombre d'utilisateurs, alors que c'est exactement le contraire avec une approche #Blockchain !!!   
 ![scalability](https://github.com/iPlumb3r/Holochain/blob/master/images/Scalability_Blockchain_Holochain.jpeg)
 
-Et contrairement à la __#Blockchain__ qui requiert systématiquement un __consensus__ global - obtenu soit par PoW ("Proof of Work") soit par PoS ("Proof of Stake") - __#Holochain__ est "consensus less" (ou plus exactement est succeptible de fonctionner un niveau de __consensus__ que l'on peut ajuster en fonction de la criticité de l'application).
+Et contrairement à la __#Blockchain__ qui requiert systématiquement un __consensus__ global - obtenu soit par PoW ("Proof of Work") soit par PoS ("Proof of Stake") - __#Holochain__ est "consensus less" (ou plus exactement est succeptible de fonctionner avec un niveau de __consensus__ que l'on peut ajuster en fonction de la criticité de l'application).
 
 > Les hApps ont aussi vocation a être intérropérables entre-elles et a pourvoir être conçues "en mode Légo" comme on peux le lire dans l'article <a href="https://blog.holochain.org/introducing-crispr-a-happ-hacking-lab/">Introducing CRISPR</a> de Paul D'Aoust.
 
@@ -56,7 +56,12 @@ Les premiers crypto-"crédit mutuel" qui verront le jour seront ceux adossés à
 * Puissance de calcul processus
 * Bande passante réseau
 
-Les crypto-"crédit mutuel" permettent de "flécher l'économie", au sein d'un territoire ou d'une tranche d'age, le long d'une filière industrielle ou agricole, ...
+Fonctionellement, les crypto-"crédit mutuel" ont la capacité de "flécher" l'économie réelle grâce au mécanisme d'accouplement avec une ressource économique réelle ; que ce soit au sein d'un territoire ou d'une tranche d'age, le long d'une filière industrielle ou agricole, ...    
+... ce qui totalement impossible avec les crypto-monnaies classiques car elle sont potentiellement acceptées partout.
+
+Techniquement, si le concepteur de l'application le décide il est possible d'opérer des transactions sans AUCUN "fee" (car il n'y a pas de "miner" dans une architecture de type #Holochain), alors qu'avec une architecture de type #Blockchain en général et avec Ethereum en particulier les "fees" ont tendance à exploser lorsque le réseau monte en charge.
+
+
 
 ## Holochain coche toutes les cases
 
