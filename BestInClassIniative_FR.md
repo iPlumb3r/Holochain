@@ -134,13 +134,13 @@ Si on se donne un peu la peine de chercher, on se rend compte que "mine de rien"
         </tr>
         <tr>
             <td>Club de Rome</td>
-            <td><a href="http://holo.host/">HOLO</a></td>
+            <td><a href="https://r3dot0.medium.com/r3-0-2020-conference-exploring-the-third-thematic-thread-value-circularity-5c4a8cc62ec0">Exploring the Third Thematic Thread — Value & Circularity</a></td>
             <td>A3</td>
         </tr>
         <tr>
             <td>Bill & Melinda Gates Foundation</td>
-            <td><a href="http://holo.host/">HOLO</a></td>
-            <td>A3</td>
+            <td><a href="https://project1800.org/wp-content/uploads/2018/04/Project-1800.pdf">Project 1800 "Towards a market network for a water-secure world"</a></td>
+            <td>Initiative dedicated to solve the UN SDG #6</td>
         </tr>
         <tr>
             <td>Bretton Woods 75 Committee</td>
