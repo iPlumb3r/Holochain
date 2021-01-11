@@ -1,4 +1,4 @@
-# Holochain : Une initiative de 1er plan !
+# Holochain : Une initiative essentielle !
 
 ## Introduction
 Suite à un <a href="https://github.com/iPlumb3r/Holochain/blob/master/HolochainNotBlockchain_FR.md">précédent article sur Holochain</a> visant surtout à mettre l'accent sur "ce en quoi #Holochain diffère de la #Blockchain", j'ai souhaité dans ce nouvel article :
