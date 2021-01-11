@@ -34,9 +34,9 @@ Les video suivantes de <a href="https://noubel.com/">Jean-François Noubel</a> p
 
 
 ## Unenclosable carrier
+To Be Completed ...
 
-La sé
 
 
-## Biomimetrisme
-
+## Biomimétisme
+To Be Completed ...
