@@ -124,12 +124,12 @@ Si on se donne un peu la peine de chercher, on se rend compte que "mine de rien"
         </tr>
         <tr>
             <td>European Commision</td>
-            <td><a href="http://holo.host/">HOLO</a></td>
+            <td><a href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC121675/jrc121675_dlt4good_scanning_the_european_ecosystem_online.pdf">Scanning the European Ecosystem of Distributed Ledger Technologiesfor Social & Public Good</a></td>
             <td>A3</td>
         </tr>
         <tr>
             <td>H2020 Project</td>
-            <td><a href="http://holo.host/">HOLO</a></td>
+            <td><a href="https://www.buyholo.net/pdf/horizon2020-interacting-decentralized-transactional-and-ledger-architecture-for-mutual-credit.pdf">Specification "Interacting Decentralized Transactional and Ledger Architecture for Mutual Credit"</a></td>
             <td>A3</td>
         </tr>
         <tr>
