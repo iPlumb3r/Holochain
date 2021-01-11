@@ -42,7 +42,17 @@ Et contrairement à la __#Blockchain__ qui requiert systématiquement un __conse
 
 
 ### Vers une galaxie de monnaies basées sur le crédit mutuel
-Bla bla ..
+Enfin, "last but not least", certaines hApps permettrons de mettre dans les mains de leur utilisateurs des monnaies d'un genre "hybride". A la fois :
+* Très _ancien_ car basé sur un principe "vieux comme le monde" à un moment on l'argent (tel que nous le connaissons aujoud'hui) n'avait pas encore fait son apparition => je veux parler du principe de <a href="https://github.com/iPlumb3r/Holochain/blob/master/Holofuel/MutualCredit_FR.md">crédit mutuel/a> 
+* Très _moderne_ car basé sur des méthodologies et technologies relativement récentes => je veux parler de la cyrptographie assymétrique et plus généralement des crypto-technologies
+  
+Contrairement aux crypto-monnaies "classiques" :
+* d'une part, les unités de compte d'un crypto-"crédit mutuel" ne sont pas des "tokens" (au sens pièce numérique") mais plutôt des écritures dans un journal de comptabilité "en partie double" ou chaque transaction implique à la fois un débit ET un crédit du même montant ...   
+... et dont la transation est signée par les 2 parties (et non uniquement par l'envoyeur, comme #Bitcoin par exemple)
+* d'autre part la valeur d'un crypto-"crédit mutuel" est adossé à un actif économique réel (qu'il soit tangible ou intangible) 
+
+Les premiers crypto-"crédit mutuel" qui verront le jour seront ceux adossé 
+
 
 ## Holochain coche toutes les cases
 
