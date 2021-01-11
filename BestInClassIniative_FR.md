@@ -22,8 +22,12 @@ Pour des raisons de stabilité du réseau, à son lancement, les 1ers HoloPorts 
 A terme il sera possible d'installer le logiciel nécessaire pour transformer n'importe quel ordinateur ou même smartphone en "holonode" !
 
 
-### Vers la construction de hAPPs "en mode Légo"
-Bla bla ..
+### Vers la construction de hAPPs en mode "user-centric"
+Contrairement à l'approche #Blockchain qui nécessite de faire "tourner" de nombreuses applications sur la même "chaine" répliquée sur l'ensemble des noeuds du réseau, l'approche #Holochain met en oeuvre une chaine différente pour chaque utilisateur de chaque application. 
+
+Il en résulte un scalabilité qui augmeente proportionnelement avec le nombre d'utilisateur, alors que c'est exactement le contraire avec une approche #Blockchain
+![scalability](https://github.com/iPlumb3r/Holochain/blob/master/images/Scalability_Blockchain_Holochain.jpeg)
+
 
 ### Vers une galaxie de monnaies basées sur le crédit mutuel
 Bla bla ..
