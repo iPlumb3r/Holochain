@@ -38,7 +38,7 @@ Il en résulte une scalabilité qui augmente proportionnelement avec le nombre d
 
 Et contrairement à la __#Blockchain__ qui requiert systématiquement un __consensus__ global - obtenu soit par PoW ("Proof of Work") soit par PoS ("Proof of Stake") - __#Holochain__ est "consensus less" (ou plus exactement est succeptible de fonctionner un niveau de __consensus__ que l'on peut ajuster en fonction de la criticité de l'application).
 
-Les hApps ont aussi vocation a être intérropérables entre-elles et à pourvoir être conçu "en mode Légo" comme on peux le lire dans l'article <a href="https://blog.holochain.org/introducing-crispr-a-happ-hacking-lab/">Introducing CRISPR</a> de Paul D'Aoust.
+Les hApps ont aussi vocation a être intérropérables entre-elles et a pourvoir être conçues "en mode Légo" comme on peux le lire dans l'article <a href="https://blog.holochain.org/introducing-crispr-a-happ-hacking-lab/">Introducing CRISPR</a> de Paul D'Aoust.
 
 
 ### Vers une galaxie de monnaies basées sur le crédit mutuel
