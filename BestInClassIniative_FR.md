@@ -12,14 +12,16 @@ Holochain au sens strict n'est qu'un protocole permettant de développer des app
 En effet, par effet induit, ce protocole va permettre l'avènement d'un nouvel Internet (Cf § "... NextNet ...") totalement distribué au sein duquel des applications "user-centric" pourront s'exécuter (Cf § "... hApp ...") et dont certaines d'entre-elles seront motorisées par un nouveau type de crypto-monnaies (Cf § ... monnaie ...) 
 
 ### Vers un "NextNet" totalement distribué
-Le réseau consitué par les HoloPorts est un réseau totalement distribué (et pas seulement décentralisé) qui fonctionnement en mode "pair à pair".
+Tout d'abord, le réseau constitué par les __"Holo Nodes"__ est un réseau totalement distribué (et pas seulement décentralisé) qui fonctionnement en mode "pair à pair".
 Autrement dit, dans un tel réseau, il n'y a PAS d'une part des _serveurs_ et d'autre part des _clients_ ; mais __uniquement__ des _noeuds_ qui jouent tous __exactement__ le même rôle (tantôt _client_ / tantôt _serveur_).    
 ![cen_dec_dis](https://github.com/iPlumb3r/Holochain/blob/master/images/centralized_decentralized_distributed.jpeg)
 
-Pour des raisons de stabilité du réseau, à son lancement, les 1ers HoloPorts sont tous basés sur la même architecture technique et doivent être acheté sur <a href="https://store.holo.host/">le store du site de Holo.host</a>, ...    
-... mais prochainement il sera possible de fabriquer soit même son HoloPort à parti d'un Raspberry Pi ou d'un Intel NUC ou bien d'une autre plateforme technique. Un groupe Telegram nommé <a href="https://t.me/holonode">DIY Holonode poolparty</a> est dédié à ce sujet.    
+Pour des raisons de stabilité du réseau, à son lancement, les tout premiers __"Holo Nodes"__ sont uniquement des HoloPorts basés sur la même architecture technique qui de plus ne peuvent seulement être achetés sur <a href="https://store.holo.host/">le store du site de Holo.host</a> ; mais cela n'est qu'une situation transitoire qui permet de faciliter la phase de "boostraping" en réduisant considérablement la charge de débogage.   
 
-A terme il sera possible d'installer le logiciel nécessaire pour transformer n'importe quel ordinateur ou même smartphone en "holonode" !
+En effet, il sera prochainement possible de fabriquer soit même son HoloPort à partir d'un Raspberry Pi ou d'un Intel NUC ou bien d'une autre plateforme technique. 
+> Un groupe Telegram nommé <a href="https://t.me/holonode">DIY Holonode poolparty</a> est dédié à ce sujet.    
+
+A terme il sera même possible d'installer le logiciel nécessaire pour transformer n'importe quel ordinateur ou même smartphone en __"Holo Node"__ !
 
 
 ### Vers la construction de hAPPs en mode "user-centric"
