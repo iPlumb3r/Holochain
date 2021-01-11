@@ -155,8 +155,8 @@ Si on se donne un peu la peine de chercher, on se rend compte que "mine de rien"
     </tbody>
 </table>
 
-
-
+En plus de ces références documentaires on peut aussi écouter Stephen Alexander (Un proche de Bill Gates) et Belinda Noakes (Une ex-Microsoft) actuelement afficlié à <td><a href="https://digitalvaluecapture.com/">Digital Value Capture Academy</a></td> qui disent dans la video 
+<td><a href="https://www.youtube.com/watch?v=Lu2lEv5D3FQ">Why Stephen waited for Holochain ?</a></td> que Holochain est LA technogique qu'ils attendait depuis 20 ans
 
 
 
