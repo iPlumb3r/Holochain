@@ -10,7 +10,8 @@ Holochain au sens strict n'est qu'un protocole permettant de développer des app
 ... mais il est important de re-situer cela dans un contexte plus large en comprennant "à quoi il va servir"
 
 ### Vers un "NextNet" totalement distribué
-Le réseau consitué par les HoloPorts est un réseau totalement distribué (et pas seulement décentralisé) qui fonctionnement en mode "pair à pair" c'est à dire que chaque noeud du réseaux joue __excactement__ le même rôle. Il n'y a pas d'une part des _serveurs_ et d'autre parts des _clients_   
+Le réseau consitué par les HoloPorts est un réseau totalement distribué (et pas seulement décentralisé) qui fonctionnement en mode "pair à pair".
+Autrement dit, dans un tel réseau, il n'y a PAS d'une part des _serveurs_ et d'autre part des _clients_ ; mais des _noeuds_ qui jouent tous __exactement__ le même rôle.   
 ![cen_dec_dis](https://github.com/iPlumb3r/Holochain/blob/master/images/centralized_decentralized_distributed.jpeg)
 
 ### Vers une construction de hAPPs "en mode Légo"
