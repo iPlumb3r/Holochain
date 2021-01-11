@@ -165,3 +165,9 @@ En plus de ces références documentaires :
 
 ### Aspect Opérationel
 > "Quel sont les utilisateurs de Holochain ?"
+
+Ce sont des communautés de terrain qui ont généralement besoin d'une monnaie basée sur du crédit mutuel pour faire face aux besoins économiques de leur territoire.   
+> Holochain a réalisé un grand nombre de "Hackatlons" depuis 2017 pour prototyper des solutions répondant à ces besoins    
+
+Ex : <a href="http://www.darvoz.org/">darVOZ"</a>
+
