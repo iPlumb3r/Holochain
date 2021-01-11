@@ -43,7 +43,7 @@ Et contrairement à la __Blockchain__ qui requiert systématiquement un __consen
 
 ### Vers une galaxie de monnaies basées sur le crédit mutuel
 Enfin, "last but not least", certaines hApps permettrons de mettre dans les mains de leur utilisateurs des monnaies d'un genre "hybride". A la fois :
-* Très _ancien_ car basé sur un principe "vieux comme le monde" à un moment on l'argent (tel que nous le connaissons aujoud'hui) n'avait pas encore fait son apparition => je veux parler du principe de <a href="https://github.com/iPlumb3r/Holochain/blob/master/Holofuel/MutualCredit_FR.md">crédit mutuel</a> 
+* Très _ancien_ car basé sur un principe "vieux comme le monde" à un moment où l'argent (tel que nous le connaissons aujoud'hui) n'avait pas encore fait son apparition => je veux parler du principe de <a href="https://github.com/iPlumb3r/Holochain/blob/master/Holofuel/MutualCredit_FR.md">crédit mutuel</a> 
 * Très _moderne_ car basé sur des méthodologies et technologies relativement récentes => je veux parler de la cyrptographie assymétrique et plus généralement des crypto-technologies
   
 Contrairement aux crypto-monnaies "classiques" :
