@@ -49,10 +49,14 @@ Enfin, "last but not least", certaines hApps permettrons de mettre dans les main
 Contrairement aux crypto-monnaies "classiques" :
 * d'une part, les unités de compte d'un crypto-"crédit mutuel" ne sont pas des "tokens" (au sens pièce numérique") mais plutôt des écritures dans un journal de comptabilité "en partie double" ou chaque transaction implique à la fois un débit ET un crédit du même montant ...   
 ... et dont la transation est signée par les 2 parties (et non uniquement par l'envoyeur, comme #Bitcoin par exemple)
-* d'autre part la valeur d'un crypto-"crédit mutuel" est adossé à un actif économique réel (qu'il soit tangible ou intangible) 
+* d'autre part la valeur d'un crypto-"crédit mutuel" est adossé à un actif économique réel (qu'il soit tangible ou intangible) : légume bio, produit vagan, électricité verte, textile éco-responsable, réputation lié à la qualité de service, ...
 
-Les premiers crypto-"crédit mutuel" qui verront le jour seront ceux adossé 
+Les premiers crypto-"crédit mutuel" qui verront le jour seront ceux adossés à la passerelle HOLO : j'ai nommé le(s) Holo Fuel(s) car à priori il y en aura plusieurs ; chacun représentant une ressource informatique particulière :
+* Capacité de stockage disque
+* Puissance de calcul processus
+* Bande passante réseau
 
+Les crypto-"crédit mutuel" permettent de "flécher l'économie", au sein d'un territoire ou d'une tranche d'age, le long d'une filière industrielle ou agricole, ...
 
 ## Holochain coche toutes les cases
 
