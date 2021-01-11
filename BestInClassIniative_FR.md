@@ -16,9 +16,10 @@ Le réseau consitué par les HoloPorts est un réseau totalement distribué (et 
 Autrement dit, dans un tel réseau, il n'y a PAS d'une part des _serveurs_ et d'autre part des _clients_ ; mais __uniquement__ des _noeuds_ qui jouent tous __exactement__ le même rôle (tantôt _client_ / tantôt _serveur_).    
 ![cen_dec_dis](https://github.com/iPlumb3r/Holochain/blob/master/images/centralized_decentralized_distributed.jpeg)
 
-Pour des raisons de stabilité du réseau, à son lancement, les 1ers HoloPorts sont tous basés sur la même architecture technique et doivent être acheté sur le site de <a href="https://github.com/babonet13/HelloWorld/">Holo.host</a>, ...    
-... mais prochainement il sera possible de fabriquer soit même son HoloPort à parti d'un Raspberry Pi ou d'un Intel NUC ou bien d'une autre plateforme technique. Un groupe Telegram nommé <a href="https://t.me/holonode">DIY Holonode poolparty</a> est dédié à ce sujet
+Pour des raisons de stabilité du réseau, à son lancement, les 1ers HoloPorts sont tous basés sur la même architecture technique et doivent être acheté sur <a href="https://store.holo.host/">le store du site de Holo.host</a>, ...    
+... mais prochainement il sera possible de fabriquer soit même son HoloPort à parti d'un Raspberry Pi ou d'un Intel NUC ou bien d'une autre plateforme technique. Un groupe Telegram nommé <a href="https://t.me/holonode">DIY Holonode poolparty</a> est dédié à ce sujet.    
 
+A terme il sera possible d'installer le logiciel nécessaire pour transformer n'importe quel ordinateur ou même smartphone en "holonode" !
 
 
 ### Vers la construction de hAPPs "en mode Légo"
