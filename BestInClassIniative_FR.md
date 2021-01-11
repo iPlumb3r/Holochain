@@ -101,5 +101,29 @@ Ces choix lui ont souvent été reproché, mais les résultats commence à être
 ### Aspect Politique
 > "Qui supporte Holochain ?"
 
+Si on se donne un peu la peine de chercher, on se rend compte que "mine de rien", Holochain est parfois seulement cité, parfois franchement supporté dans un grand nombre de documents émanant d'organisations de renommé mondiale. En voici quelques uns (une fois le document ouvert faite une recherche "plein texte" sur le mot "Holochain").
+
+<table>
+    <thead>
+        <tr>
+            <th>Label</th>
+            <th>Description</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>A1</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
 ### Aspect Opérationel
 > "Quel sont les utilisateurs de Holochain ?"
