@@ -25,18 +25,18 @@ A terme il sera même possible d'installer le logiciel nécessaire pour transfor
 
 
 ### Vers la construction de hApps en mode "user-centric"
-Ensuite __#Holochain__ permettra de développer pour ce réseau des applications totalement distribuées
+Ensuite __Holochain__ permettra de développer pour ce réseau des applications totalement distribuées
 * Les personnes ayant un "Holo Node" (que se soit un HoloPort original ou bien un "Holo Node" fabriqué et/ou paramétré par leur soins) pourront utiliser ces applications (dites "hApps") directement en mode P2P.   
 * Ceux ne disposant pas de "Holo Node" pourront via la plateforme Holo.host (aka "HOLO") accéder à ces mêmes applications.   
 (En contre-partie de ce service, Holo.host demandera 1% de commission en Holo Fuel aux créateurs de hApps).      
 > HOLO est donc une passerelle entre le web "normal" (tel qu'on le connais aujourd'hui) et le futur Internet décrit plus haut.   
   
-Contrairement à l'approche __#Blockchain__ ("data-centric") qui nécessite d'exécuter de nombreuses applications sur la même __chaîne__ répliquée sur l'ensemble des noeuds du réseau, l'approche __#Holochain__ ("user-centric") met en oeuvre une __chaîne__ différente pour chaque application et même pour chaque utilisateur.
+Contrairement à l'approche __Blockchain__ ("data-centric") qui nécessite d'exécuter de nombreuses applications sur la même __chaîne__ répliquée sur l'ensemble des noeuds du réseau, l'approche __Holochain__ ("user-centric") met en oeuvre une __chaîne__ différente pour chaque application et même pour chaque utilisateur.
 
 Il en résulte une scalabilité qui augmente proportionnelement avec le nombre d'utilisateurs, alors que c'est exactement le contraire avec une approche #Blockchain !!!   
 ![scalability](https://github.com/iPlumb3r/Holochain/blob/master/images/Scalability_Blockchain_Holochain.jpeg)
 
-Et contrairement à la __#Blockchain__ qui requiert systématiquement un __consensus__ global - obtenu soit par PoW ("Proof of Work") soit par PoS ("Proof of Stake") - __#Holochain__ est "consensus less" (ou plus exactement est succeptible de fonctionner avec un niveau de __consensus__ que l'on peut ajuster en fonction de la criticité de l'application).
+Et contrairement à la __Blockchain__ qui requiert systématiquement un __consensus__ global - obtenu soit par PoW ("Proof of Work") soit par PoS ("Proof of Stake") - __Holochain__ est "consensus less" (ou plus exactement est succeptible de fonctionner avec un niveau de __consensus__ que l'on peut ajuster en fonction de la criticité de l'application).
 
 > Les hApps ont aussi vocation a être intérropérables entre-elles et a pourvoir être conçues "en mode Légo" comme on peux le lire dans l'article <a href="https://blog.holochain.org/introducing-crispr-a-happ-hacking-lab/">Introducing CRISPR</a> de Paul D'Aoust.
 
@@ -64,21 +64,23 @@ Techniquement, si le concepteur de l'application le décide il est possible d'op
 
 
 ## Holochain coche toutes les cases
+Dans cette section l'idée est de montrer que l'initiative #Holochain est pertinente sur l'ensemble des aspects succpetible de caractériser un projet.
 
-### Aspect Conceptuel
-Bla bla ..
+
+### Aspect Finalité
+Cet aspect est relatif au "Pourquoi Holochain à t-il été imaginé ?"
 
 ### Aspect Fonctionel
-Bla bla ..
+Cet aspect est relatif à "Qu'est-ce que Holochain ?"
 
 ### Aspect Technique
-Bla bla ..
+Cet aspect est relatif à "Comment Holochain àt-il été implementé ?"
 
 ### Aspect Stratégique
-Bla bla ..
+Cet aspect est relatif à "Quel sont les choix qui ont été fait ?"
 
 ### Aspect Politique
-Bla bla ..
+Cet aspect est relatif à "Quel sont les sponsors de Holochain ?"
 
 ### Aspect Opérationel
-Bla bla ..
+Cet aspect est relatif à "Quel sont les utilisateurs de Holochain ?"
