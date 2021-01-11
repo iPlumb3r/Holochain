@@ -18,7 +18,7 @@ Autrement dit, dans un tel réseau, il n'y a PAS d'une part des _serveurs_ et d'
 
 Pour des raisons de stabilité du réseau, à son lancement, les tout premiers __"Holo Nodes"__ sont uniquement des HoloPorts basés sur la même architecture technique et qui de plus ne peuvent seulement être achetés sur <a href="https://store.holo.host/">le store du site de Holo.host</a> ; mais cela n'est qu'une situation transitoire qui permet de faciliter la phase de "boostraping" en réduisant considérablement la charge de débogage.   
 
-En effet, il sera prochainement possible de fabriquer soit même son HoloPort à partir d'un Raspberry Pi ou d'un Intel NUC ou bien d'une autre plateforme technique. 
+En effet, il sera prochainement possible de fabriquer soi-même son HoloPort à partir d'un Raspberry Pi ou d'un Intel NUC ou bien d'une autre plateforme technique. 
 > Un groupe Telegram nommé <a href="https://t.me/holonode">DIY Holonode poolparty</a> est dédié à ce sujet.    
 
 A terme il sera même possible d'installer le logiciel nécessaire pour transformer n'importe quel ordinateur ou même smartphone en __"Holo Node"__ !
