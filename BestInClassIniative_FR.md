@@ -6,7 +6,7 @@ Suite à un <a href="https://github.com/iPlumb3r/Holochain/blob/master/Holochain
 * D'autre part montrer la pertinence de chaque aspect du projet
 
 ## Une initiative "multi-facettes"
-Holochain au sens strict n'est qu'un protocole permettant de développer des applications distribuées ...   
+Holochain au sens strict n'est qu'un __protocole__ permettant de développer des applications distribuées ...   
 ... mais il est important de re-situer cela dans un contexte plus large en comprennant "à quoi il va servir".
 
 Effectivement, par effet induit, ce protocole va permettre l'avènement d'un nouvel Internet (Cf § "... NextNet ...") totalement distribué au sein duquel des applications "user-centric" pourront s'exécuter (Cf § "... hApp ...") et dont certaines d'entre-elles seront motorisées par un nouveau type de crypto-monnaies (Cf § ... monnaie ...) 
