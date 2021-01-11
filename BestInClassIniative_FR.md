@@ -29,7 +29,7 @@ Ensuite __#Holochain__ permettra de développer pour ce réseau des applications
 * Les personnes ayant un "Holo Node" (que se soit un HoloPort original ou bien un "Holo Node" fabriqué et/ou paramétré par leur soins) pourront utiliser ces applications (dites "hApps") directement en mode P2P.   
 * Ceux ne disposant pas de "Holo Node" pourront via la plateforme Holo.host (aka "HOLO") accéder à ces mêmes applications.   
 (En contre-partie de ce service, Holo.host demandera 1% de commission en Holo Fuel aux créateurs de hApps).      
-> HOLO est donc une passerelle entre le web "normal" (tel qu'on le connais aujourd'hui) et le futur Internet.   
+> HOLO est donc une passerelle entre le web "normal" (tel qu'on le connais aujourd'hui) et le futur Internet décrit plus haut.   
   
 Contrairement à l'approche __#Blockchain__ ("data-centric") qui nécessite d'exécuter de nombreuses applications sur la même __chaîne__ répliquée sur l'ensemble des noeuds du réseau, l'approche __#Holochain__ ("user-centric") met en oeuvre une __chaîne__ différente pour chaque application et même pour chaque utilisateur.
 
