@@ -12,7 +12,7 @@ Holochain au sens strict n'est qu'un protocole permettant de développer des app
 Effectivement, par effet induit, ce protocole va permettre l'avènement d'un nouvel Internet (Cf § "... NextNet ...") totalement distribué au sein duquel des applications "user-centric" pourront s'exécuter (Cf § "... hApp ...") et dont certaines d'entre-elles seront motorisées par un nouveau type de crypto-monnaies (Cf § ... monnaie ...) 
 
 ### Vers un "NextNet" totalement distribué
-Tout d'abord, le réseau constitué par les __"Holo Nodes"__ est un réseau totalement distribué (et pas seulement décentralisé) qui fonctionnement en mode "pair à pair".
+Tout d'abord, le réseau constitué par les __"Holo Nodes"__ est un réseau totalement distribué (et pas seulement décentralisé) qui fonctionne en mode "pair à pair".
 Autrement dit, dans un tel réseau, il n'y a PAS d'une part des _serveurs_ et d'autre part des _clients_ ; mais __uniquement__ des _noeuds_ qui jouent tous __exactement__ le même rôle (tantôt _client_ / tantôt _serveur_).    
 ![cen_dec_dis](https://github.com/iPlumb3r/Holochain/blob/master/images/centralized_decentralized_distributed.jpeg)
 
