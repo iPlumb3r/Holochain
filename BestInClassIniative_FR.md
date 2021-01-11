@@ -23,11 +23,12 @@ A terme il sera possible d'installer le logiciel nécessaire pour transformer n'
 
 
 ### Vers la construction de hAPPs en mode "user-centric"
-Contrairement à l'approche #Blockchain qui nécessite de faire "tourner" de nombreuses applications sur la même "chaine" répliquée sur l'ensemble des noeuds du réseau, l'approche #Holochain met en oeuvre une chaine différente pour chaque utilisateur de chaque application. 
+Contrairement à l'approche #Blockchain (data-centric) qui nécessite de faire "tourner" de nombreuses applications sur la même "chaîne" répliquée sur l'ensemble des noeuds du réseau, l'approche #Holochain (user-centric) met en oeuvre une "chaîne" différente pour chaque application et même pour chaque utilisateur.
 
-Il en résulte un scalabilité qui augmeente proportionnelement avec le nombre d'utilisateur, alors que c'est exactement le contraire avec une approche #Blockchain
+Il en résulte une scalabilité qui augmente proportionnelement avec le nombre d'utilisateur, alors que c'est exactement le contraire avec une approche #Blockchain
 ![scalability](https://github.com/iPlumb3r/Holochain/blob/master/images/Scalability_Blockchain_Holochain.jpeg)
 
+Et contrairement à la #Blockchain qui requiert systématiquement un consensus global - obtenu soit par PoW ("Proof of Work") soit par PoS ("Proof of Stake") - #Holochain est "consensus less" (ou plus exactement est succeptible de fonctionner un niveau de consensus que l'on peut ajuster en fonction de la criticité de l'application).
 
 ### Vers une galaxie de monnaies basées sur le crédit mutuel
 Bla bla ..
