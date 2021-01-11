@@ -33,10 +33,13 @@ Ensuite __#Holochain__ permettra de développer pour ce réseau des applications
   
 Contrairement à l'approche __#Blockchain__ ("data-centric") qui nécessite d'exécuter de nombreuses applications sur la même __chaîne__ répliquée sur l'ensemble des noeuds du réseau, l'approche __#Holochain__ ("user-centric") met en oeuvre une __chaîne__ différente pour chaque application et même pour chaque utilisateur.
 
-Il en résulte une scalabilité qui augmente proportionnelement avec le nombre d'utilisateurs, alors que c'est exactement le contraire avec une approche #Blockchain
+Il en résulte une scalabilité qui augmente proportionnelement avec le nombre d'utilisateurs, alors que c'est exactement le contraire avec une approche #Blockchain !!!   
 ![scalability](https://github.com/iPlumb3r/Holochain/blob/master/images/Scalability_Blockchain_Holochain.jpeg)
 
 Et contrairement à la __#Blockchain__ qui requiert systématiquement un __consensus__ global - obtenu soit par PoW ("Proof of Work") soit par PoS ("Proof of Stake") - __#Holochain__ est "consensus less" (ou plus exactement est succeptible de fonctionner un niveau de __consensus__ que l'on peut ajuster en fonction de la criticité de l'application).
+
+Les hApps ont aussi vocation a être intérropérables entre-elles et à pourvoir être conçu "en mode Légo" comme on peux le lire dans l'article <a href="https://blog.holochain.org/introducing-crispr-a-happ-hacking-lab/">Introducing CRISPR</a> de Paul D'Aoust.
+
 
 ### Vers une galaxie de monnaies basées sur le crédit mutuel
 Bla bla ..
