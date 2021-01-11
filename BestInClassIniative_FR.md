@@ -16,7 +16,7 @@ Tout d'abord, le réseau constitué par les __"Holo Nodes"__ est un réseau tota
 Autrement dit, dans un tel réseau, il n'y a PAS d'une part des _serveurs_ et d'autre part des _clients_ ; mais __uniquement__ des _noeuds_ qui jouent tous __exactement__ le même rôle (tantôt _client_ / tantôt _serveur_).    
 ![cen_dec_dis](https://github.com/iPlumb3r/Holochain/blob/master/images/centralized_decentralized_distributed.jpeg)
 
-Pour des raisons de stabilité du réseau, à son lancement, les tout premiers __"Holo Nodes"__ sont uniquement des HoloPorts basés sur la même architecture technique qui de plus ne peuvent seulement être achetés sur <a href="https://store.holo.host/">le store du site de Holo.host</a> ; mais cela n'est qu'une situation transitoire qui permet de faciliter la phase de "boostraping" en réduisant considérablement la charge de débogage.   
+Pour des raisons de stabilité du réseau, à son lancement, les tout premiers __"Holo Nodes"__ sont uniquement des HoloPorts basés sur la même architecture technique et qui de plus ne peuvent seulement être achetés sur <a href="https://store.holo.host/">le store du site de Holo.host</a> ; mais cela n'est qu'une situation transitoire qui permet de faciliter la phase de "boostraping" en réduisant considérablement la charge de débogage.   
 
 En effet, il sera prochainement possible de fabriquer soit même son HoloPort à partir d'un Raspberry Pi ou d'un Intel NUC ou bien d'une autre plateforme technique. 
 > Un groupe Telegram nommé <a href="https://t.me/holonode">DIY Holonode poolparty</a> est dédié à ce sujet.    
