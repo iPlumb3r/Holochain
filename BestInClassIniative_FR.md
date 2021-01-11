@@ -98,7 +98,7 @@ Contrairement aux autre projets de la cryptosphère, l'équipe Holochain :
 
 Ces choix lui ont souvent été reproché, mais les résultats commence à être au rendez-vous
 
-### Aspect Politique
+### Aspect Sponsoring
 > "Qui supporte Holochain ?"
 
 Si on se donne un peu la peine de chercher, on se rend compte que "mine de rien", Holochain est parfois seulement cité, parfois franchement supporté dans un grand nombre de documents émanant d'organisations de renommé mondiale. En voici quelques uns (une fois le document ouvert faite une recherche "plein texte" sur le mot "Holochain").
