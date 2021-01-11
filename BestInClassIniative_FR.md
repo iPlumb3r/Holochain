@@ -24,7 +24,7 @@ En effet, il sera prochainement possible de fabriquer soi-même son HoloPort à 
 A terme il sera même possible d'installer le logiciel nécessaire pour transformer n'importe quel ordinateur ou même smartphone en __"Holo Node"__ !
 
 
-### Vers la construction de hAPPs en mode "user-centric"
+### Vers la construction de hApps en mode "user-centric"
 Ensuite __#Holochain__ permettra de développer pour ce réseau des applications totalement distribuées
 * Les personnes ayant un "Holo Node" (que se soit un HoloPort original ou bien un "Holo Node" fabriqué et/ou paramétré par leur soins) pourront utiliser ces applications (dites "hApps") directement en mode P2P.   
 * Ceux ne disposant pas de "Holo Node" pourront via la plateforme Holo.host (aka "HOLO") accéder à ces mêmes applications.   
