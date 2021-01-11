@@ -155,9 +155,11 @@ Si on se donne un peu la peine de chercher, on se rend compte que "mine de rien"
     </tbody>
 </table>
 
-En plus de ces références documentaires on peut aussi écouter Stephen Alexander (Un proche de Bill Gates) et Belinda Noakes (Une ex-Microsoft) actuelement afficlié à <td><a href="https://digitalvaluecapture.com/">Digital Value Capture Academy</a></td> qui disent dans la video 
-<td><a href="https://www.youtube.com/watch?v=Lu2lEv5D3FQ">Why Stephen waited for Holochain ?</a></td> que Holochain est LA technogique qu'ils attendait depuis 20 ans
-
+En plus de ces références documentaires :
+* on peut aussi écouter Stephen Alexander (Un proche de Bill Gates) et Belinda Noakes (Une ex-Microsoft) actuelement affilié à <td><a href="https://digitalvaluecapture.com/">Digital Value Capture Academy</a></td> qui disent dans la video <a href="https://www.youtube.com/watch?v=Lu2lEv5D3FQ">Why Stephen waited for Holochain ?</a> que : 
+> Holochain est LA technologie qu'ils attendaient depuis 20 ans !
+* on peut aussi citer André Crojne (le talentueux créateur/développeur de Yearn Finance)
+>  "This is something entirely new, and it isn't a blockchain, this is a new kind of decentralized beast, but I love it." 
 
 
 ### Aspect Opérationel
