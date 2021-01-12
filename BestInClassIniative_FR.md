@@ -14,7 +14,7 @@ Effectivement, par effet induit, ce __protocole__ va implicitement permettre l'a
 ### Vers un "NextNet" totalement distribué
 Tout d'abord, le réseau constitué par les __"Holo Nodes"__ est un réseau totalement distribué (et pas seulement décentralisé) qui fonctionne en mode "pair à pair" (P2P).
 Autrement dit, dans un tel réseau, il n'y a PAS d'une part des _serveurs_ et d'autre part des _clients_ ; mais __uniquement__ des _noeuds_ qui jouent tous __exactement__ le même rôle (tantôt _client_ / tantôt _serveur_).    
-![cen_dec_dis](https://github.com/iPlumb3r/Holochain/blob/master/images/centralized_decentralized_distributed.jpeg)
+![cen_dec_dis](https://github.com/iPlumb3r/Holochain/blob/master/images/centralized_decentralized_distributed.jpg)
 
 Pour des raisons de stabilité du réseau, à son lancement, les tout premiers __"Holo Nodes"__ sont uniquement des HoloPorts basés sur la même architecture technique et qui de plus ne peuvent seulement être achetés sur <a href="https://store.holo.host/">le store du site de Holo.host</a> ; mais cela n'est qu'une situation transitoire qui permet de faciliter la phase de "boostraping" en réduisant considérablement la charge de débogage.   
 
