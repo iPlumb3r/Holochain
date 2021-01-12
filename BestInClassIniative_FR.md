@@ -44,7 +44,8 @@ Et contrairement à la __Blockchain__ qui requiert systématiquement un __consen
 ### Vers une galaxie de "current-see" basées sur le crédit mutuel
 Enfin, "last but not least", certaines hApps permettrons de mettre dans les mains de leur utilisateurs des monnaies d'un genre "hybride". 
 > Ces monnaies, "currency" en anglais n'ont plus rien à voir avec l'argent "tel que nous le connaissons" !     
-> Ce sont des "current-see", c'est à dire qu'elles permettent de "voir les flux" (voir les courrants") des ressources économiques échangées
+> Ce sont des "current-see", c'est à dire qu'elles permettent de "voir les courants" ...
+> ... Autrement dit, de "voir les flux des ressources économiques échangées".
 
 Qualifié d'hybride, puisque à la fois :
 * Très _ancienne_ car basé sur un principe "vieux comme le monde" à un moment où l'argent "tel que nous le connaissons" n'avait pas encore fait son apparition => je veux parler du principe de <a href="https://github.com/iPlumb3r/Holochain/blob/master/Holofuel/MutualCredit_FR.md">crédit mutuel</a> 
