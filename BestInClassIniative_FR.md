@@ -49,18 +49,17 @@ Enfin, "last but not least", certaines hApps permettrons de mettre dans les main
 Contrairement aux crypto-monnaies "classiques" :
 * d'une part, les unités de compte d'un crypto-"crédit mutuel" ne sont pas des "tokens" (au sens pièce numérique") mais plutôt des écritures dans un journal de comptabilité "en partie double" ou chaque transaction implique à la fois un débit ET un crédit du même montant ...   
 ... et dont la transation est signée par les 2 parties (et non uniquement par l'envoyeur, comme #Bitcoin par exemple)
-* d'autre part la valeur d'un crypto-"crédit mutuel" est adossé à un actif économique réel (qu'il soit tangible ou intangible) : légume bio, produit vegan, électricité verte, textile éco-responsable, réputation lié à la qualité de service, ...
+* d'autre part la valeur d'un crypto-"crédit mutuel" est adossé à un actif économique réel (qu'il soit tangible ou intangible) : légume bio, produit vegan, électricité verte, textile éco-responsable, réputation liée à la qualité de service, ...
 
 Les premiers crypto-"crédit mutuel" qui verront le jour seront ceux adossés à la passerelle HOLO : j'ai nommé le(s) Holo Fuel(s) car à priori il y en aura plusieurs ; chacun représentant une ressource informatique particulière :
 * Capacité de stockage disque
 * Puissance de calcul processus
 * Bande passante réseau
 
-Fonctionellement, les crypto-"crédit mutuel" ont la capacité de "flécher" l'économie réelle grâce au mécanisme d'accouplement avec une ressource économique réelle ; que ce soit au sein d'un territoire ou d'une tranche d'age, le long d'une filière industrielle ou agricole, ...    
-... ce qui totalement impossible avec les crypto-monnaies classiques car elle sont potentiellement acceptées partout.
+Fonctionellement, les crypto-"crédit mutuel" ont la capacité de "flécher" l'économie réelle grâce au mécanisme d'accouplement avec une ressource économique réelle ; que ce soit au sein d'un territoire ou d'une tranche d'âge, le long d'une filière industrielle ou agricole, ...    
+... ce qui est totalement impossible avec les crypto-monnaies classiques car elles sont agnostiques vis-à-vis des ressources éconpmiques et potentiellement acceptées partout.
 
-Techniquement, si le concepteur de l'application le décide il est possible d'opérer des transactions sans AUCUN "fee" (car il n'y a pas de "miner" dans une architecture de type #Holochain), alors qu'avec une architecture de type #Blockchain en général et avec Ethereum en particulier les "fees" ont tendance à exploser lorsque le réseau monte en charge.
-
+Techniquement, si le concepteur de l'application le décide il est possible d'opérer des transactions sans AUCUN "fee" (car il n'y a pas de "mineur" dans une architecture de type Holochain), alors qu'avec une architecture de type Blockchain en général et avec Ethereum en particulier les "fees" ont tendance à exploser lorsque le réseau monte en charge.
 
 
 ## Holochain coche toutes les cases
@@ -73,13 +72,12 @@ Dans cette section l'idée est de montrer que l'initiative #Holochain est pertin
 En bref, on peut dire que la raison d'être de l'écosystème <a href="http://metacurrency.org/">MetaCurrency</a> / <a href="http://holochain.org/">Holochain</a>  / <a href="http://holo.host/">HOLO</a> est de fournir les outils permettant à des __communautés qui partagent des valeurs__ ou des intérêts communs de __pouvoir se coordonner à large échelle__.
 
 C'est un programme multi-disciplinaire, large et profond, aux ramifications multiples et variées ...
-... qui tranche avec la simplicité de la finalité de #Bitcoin qui est d'être une réserve de valeur (aka "digital gold")
+... qui tranche avec la simplicité de la finalité de Bitcoin qui est d'être une réserve de valeur (aka "digital gold")
 
 ### Aspect Fonctionel
 > "Qu'est-ce que Holochain ?"
 
 Ce point à été largement abordé dans la 1ere partie de ce document.
-On peut compléter
 
 ### Aspect Technique
 > "Comment Holochain a t-il été implementé ?"
@@ -87,21 +85,25 @@ On peut compléter
 Holochain à fait l'objet d'un 1er prototype jettable en Go et d'un 2nd en Rust nommé "Redux" ...   
 ... puis ifnallement d'une version opérationelle, égalemen en Rust, nommé "RSM" (Refractored State Model)
 
+On peut compléter en disant que :
+* chaque application dispose d'un "ADN" qui est en fait le hash cryptographique de son code source et qui permet de s'assurer que chaque participant du reseau "joue" bien la même "partie" que les autres (corrolaire : si quelqu'un modifie une seule virgule du code, le hash cryptographiquede l'application sera radicalement différent et ses transactions ne seront alors pas acceptées par les autres participants !)   
+* les informations ne sont pas accédées par "localisation digitale" mais elles sont indexé par leur contenu, il n'est donc pas utile de se pré-occuper d'espaces de nommage, ni d'adresses (type URI/URL). Une DHT (Distributed Hash Table) permet d'indexer et de retrouver toute les informations nécessaires avec des niveaux de performance qui augmente avec le nombre d'utilisateur.   
 
 ### Aspect Stratégique
 > "Quel sont les choix qui ont été fait ?"
 
-Contrairement aux autre projets de la cryptosphère, l'équipe Holochain :
+Contrairement aux autres projets de la cryptosphère, l'équipe Holochain :
 * à préféré la qualité du code livré aux délais de livraison
 * à favorisé la communication auprès des développeurs plutôt qu'auprès des investisseurs
-* se projette pluôt surle moyen-long terme plutôt que sur le court terme
+* se projette plutôt surle moyen-long terme plutôt que sur le court terme
 
-Ces choix lui ont souvent été reproché, mais les résultats commence à être au rendez-vous
+Ces choix lui ont souvent été reproché, mais les résultats commence à être au rendez-vous :    
+> Le produit existe vraiment, contrairement à d'autres projets qui n'en sont toujours qu'au stade du "white paper" !   
 
 ### Aspect Sponsoring
 > "Qui supporte Holochain ?"
 
-Si on se donne un peu la peine de chercher, on se rend compte que "mine de rien", Holochain est parfois seulement cité, parfois franchement supporté dans un grand nombre de documents émanant d'organisations de renommé mondiale. En voici quelques uns (une fois le document ouvert faite une recherche "plein texte" sur le mot "Holochain").
+Si on se donne un peu la peine de chercher, on se rend compte que "mine de rien", Holochain est parfois seulement cité, parfois franchement supporté dans un grand nombre de documents émanant d'organisations de renommée mondiale. En voici quelques uns (une fois le document ouvert faite une recherche "plein texte" sur le mot "Holochain" pour pouvoir le situer "en contexte").
 
 <table>
     <thead>
@@ -156,7 +158,7 @@ Si on se donne un peu la peine de chercher, on se rend compte que "mine de rien"
 </table>
 
 En plus de ces références documentaires :
-* on peut aussi écouter Stephen Alexander (Un proche de Bill Gates) et Belinda Noakes (Une ex-Microsoft) actuelement affilié à <td><a href="https://digitalvaluecapture.com/">Digital Value Capture Academy</a></td> qui disent dans la video <a href="https://www.youtube.com/watch?v=Lu2lEv5D3FQ">Why Stephen waited for Holochain ?</a> que : 
+* on peut aussi écouter Stephen Alexander (un proche de Bill Gates) et Belinda Noakes (une ex-Microsoft) actuellement affiliés à <td><a href="https://digitalvaluecapture.com/">Digital Value Capture Academy</a></td> qui disent dans la video <a href="https://www.youtube.com/watch?v=Lu2lEv5D3FQ">Why Stephen waited for Holochain ?</a> que : 
 > Holochain est LA technologie qu'ils attendaient depuis 20 ans !
 * on peut aussi citer André Crojne (le talentueux créateur/développeur de Yearn Finance)
 >  "This is something entirely new, and it isn't a blockchain, this is a new kind of decentralized beast, but I love it."      
