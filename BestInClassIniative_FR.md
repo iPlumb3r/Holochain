@@ -9,7 +9,7 @@ Suite à un <a href="https://github.com/iPlumb3r/Holochain/blob/master/Holochain
 Holochain au sens strict n'est qu'un __protocole__ permettant de développer des applications distribuées ...   
 ... mais il est important de re-situer cela dans un contexte plus large en comprennant "à quoi il va servir".
 
-Effectivement, par effet induit, ce __protocole__ va implicitement permettre l'avènement d'un nouvel Internet (Cf § "... NextNet ...") totalement distribué au sein duquel des applications "user-centric" pourront s'exécuter (Cf § "... hApp ...") et dont certaines d'entre-elles seront motorisées par un nouveau type de crypto-monnaies (Cf § ... monnaie ...) 
+Effectivement, par effet induit, ce __protocole__ va implicitement permettre l'avènement d'un nouvel Internet (Cf § "... NextNet ...") totalement distribué au sein duquel des applications "user-centric" pourront s'exécuter (Cf § "... hApps ...") et dont certaines d'entre-elles seront motorisées par un nouveau type de crypto-monnaies (Cf § ... "current-see" ...) 
 
 ### Vers un "NextNet" totalement distribué
 Tout d'abord, le réseau constitué par les __"Holo Nodes"__ est un réseau totalement distribué (et pas seulement décentralisé) qui fonctionne en mode "pair à pair" (P2P).
@@ -41,9 +41,13 @@ Et contrairement à la __Blockchain__ qui requiert systématiquement un __consen
 > Les hApps ont aussi vocation a être inter-opérables entre-elles et a pourvoir être conçues "en mode Légo" comme on peux le lire dans l'article <a href="https://blog.holochain.org/introducing-crispr-a-happ-hacking-lab/">Introducing CRISPR</a> de Paul D'Aoust.
 
 
-### Vers une galaxie de monnaies basées sur le crédit mutuel
-Enfin, "last but not least", certaines hApps permettrons de mettre dans les mains de leur utilisateurs des monnaies d'un genre "hybride". A la fois :
-* Très _ancien_ car basé sur un principe "vieux comme le monde" à un moment où l'argent (tel que nous le connaissons aujoud'hui) n'avait pas encore fait son apparition => je veux parler du principe de <a href="https://github.com/iPlumb3r/Holochain/blob/master/Holofuel/MutualCredit_FR.md">crédit mutuel</a> 
+### Vers une galaxie de "current-see" basées sur le crédit mutuel
+Enfin, "last but not least", certaines hApps permettrons de mettre dans les mains de leur utilisateurs des monnaies d'un genre "hybride". 
+> Ces monnaies, "currency" en anglais n'ont plus rien à voir avec l'argent "tel que nous le connaissons" !     
+> Ce sont des "current-see", c'est à dire qu'elles permettent de "voir les flux" (voir les courrants") des ressources économiques échangées
+
+Qualifié d'hybride, puisque à la fois :
+* Très _ancienne_ car basé sur un principe "vieux comme le monde" à un moment où l'argent "tel que nous le connaissons" n'avait pas encore fait son apparition => je veux parler du principe de <a href="https://github.com/iPlumb3r/Holochain/blob/master/Holofuel/MutualCredit_FR.md">crédit mutuel</a> 
 * Très _moderne_ car basé sur des méthodologies et technologies relativement récentes => je veux parler de la cryptographie assymétrique (clé privé & clé publique) et plus généralement des crypto-technologies
   
 Contrairement aux crypto-monnaies "classiques" :
