@@ -64,7 +64,7 @@ Techniquement, si le concepteur de l'application le décide il est possible d'op
 
 
 ## Holochain coche toutes les cases
-Dans cette section l'idée est de montrer que l'initiative #Holochain est pertinente sur l'ensemble des aspects susceptible de caractériser un projet.
+Dans cette section l'idée est de montrer que l'initiative #Holochain est pertinente sur l'ensemble des aspects susceptibles de caractériser un projet.
 
 
 ### Aspect Finalité
