@@ -66,7 +66,7 @@ Deux spécificités (approche "user centric" et crypto - "<a href="https://githu
 
 ![Holochain VS Blockchain](https://github.com/iPlumb3r/Holochain/blob/master/images/HolochainVSBlockchain_2020-02-18.png)
 
-Pour afiner la comparaison entre les technologies Blockchain-based et Holochain :
+Pour affiner la comparaison entre les technologies Blockchain-based et Holochain :
 > https://www.buyholo.net/en/learn/comparative   
 > https://github.com/holochain/holochain-proto/wiki/Comparisons   
 
