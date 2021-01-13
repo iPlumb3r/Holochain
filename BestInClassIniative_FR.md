@@ -67,7 +67,8 @@ Fonctionellement, les crypto-"crédit mutuel" ont la capacité de "flécher" l'�
 Techniquement, si le concepteur de l'application le décide il est possible d'opérer des transactions sans AUCUN "fee" (car il n'y a pas de "mineur" dans une architecture de type Holochain), alors qu'avec une architecture de type Blockchain en général et avec Ethereum en particulier les "fees" ont tendance à exploser lorsque le réseau monte en charge.
 
 
-> L'article <a href="https://www.huffingtonpost.co.uk/entry/five-monetary-rebellions-change-money-system_n_5b9a819ae4b0b64a336ca248?guccounter=2">5 Rebel Movements Want To Change How Money Works</a> de <a href="https://twitter.com/Suitpossum">Brett Scott</a> présente le "Crédit Mutuel" comme l'alternative monétaire (à la monnaie "Fiat") la plus pertinente.
+> L'article <a href="https://www.huffingtonpost.co.uk/entry/five-monetary-rebellions-change-money-system_n_5b9a819ae4b0b64a336ca248">5 Rebel Movements Want To Change How Money Works</a> de <a href="https://twitter.com/Suitpossum">Brett Scott</a> présente le "Crédit Mutuel" comme l'alternative monétaire (à la monnaie "Fiat") la plus pertinente.
+> La video <a href="https://www.youtube.com/watch?v=OmPaR3bB5NY">The future of money is mutual credit (not Bitcoin)</a> de <a href="https://twitter.com/Suitpossum">Thomas Greco</a> confirme cette même pertinence.
 
 ## Holochain coche toutes les cases
 Dans cette section l'idée est de montrer que l'initiative #Holochain est pertinente sur l'ensemble des aspects susceptibles de caractériser un projet.
