@@ -68,7 +68,7 @@ Techniquement, si le concepteur de l'application le décide il est possible d'op
 
 
 > L'article <a href="https://www.huffingtonpost.co.uk/entry/five-monetary-rebellions-change-money-system_n_5b9a819ae4b0b64a336ca248">5 Rebel Movements Want To Change How Money Works</a> de <a href="https://twitter.com/Suitpossum">Brett Scott</a> présente le "Crédit Mutuel" comme l'alternative monétaire (à la monnaie "Fiat") la plus pertinente.
-> La video <a href="https://www.youtube.com/watch?v=OmPaR3bB5NY">The future of money is mutual credit (not Bitcoin)</a> de <a href="https://twitter.com/Suitpossum">Thomas Greco</a> confirme cette même pertinence.
+> La video <a href="https://www.youtube.com/watch?v=OmPaR3bB5NY">The future of money is mutual credit (not Bitcoin)</a> de <a href="https://twitter.com/tomazgreco">Thomas Greco</a> confirme cette même pertinence.
 
 ## Holochain coche toutes les cases
 Dans cette section l'idée est de montrer que l'initiative #Holochain est pertinente sur l'ensemble des aspects susceptibles de caractériser un projet.
