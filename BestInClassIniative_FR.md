@@ -2,8 +2,8 @@
 
 ## Introduction
 Suite à un <a href="https://github.com/iPlumb3r/Holochain/blob/master/HolochainNotBlockchain_FR.md">précédent article sur Holochain</a> visant surtout à mettre l'accent sur "ce en quoi #Holochain diffère de la #Blockchain", 
-> https://www.buyholo.net/en/learn/comparative
-> https://github.com/holochain/holochain-proto/wiki/Comparisons
+> https://www.buyholo.net/en/learn/comparative   
+> https://github.com/holochain/holochain-proto/wiki/Comparisons   
 
 J'ai souhaité dans ce nouvel article :
 * D'une part éclairer le spectre des différentes facettes de cette initiative
