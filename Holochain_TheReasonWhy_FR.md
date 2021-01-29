@@ -13,7 +13,8 @@ Elles sont multiples et prennent racine au coeur de disciplines très variées :
 
 
 ## En bref : le fil rouge ...
-La vision qui à conduit à l'émergence d'Holochain vient de la volonté de pouvoir fonctionner à l'échelle de la planète comme dans un village ...
+La vision qui a conduit à l'émergence d'Holochain vient de la volonté de pouvoir fonctionner à l'échelle de la planète comme dans un village ...
+... afin de pouvoir coordoner des __individus et/ou des communautés__ qui partagent des __valeurs et/ou des intérêts__ communs.
 
 
 ## Passer à l'échelle
