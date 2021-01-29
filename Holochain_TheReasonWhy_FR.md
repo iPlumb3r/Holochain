@@ -28,7 +28,8 @@ Les video suivantes de <a href="https://noubel.com/">Jean-François Noubel</a> p
 > Il est a noter que l'argent tel que nous le connaissons aujourd'hui est une technologie qui est nait en même temps que le mode "Pyramidal" car dans le contexte du mode "Tribal" les humains utilisaient plus volontier de système à base de "crédit mutuel" !
 
 <a href="https://www.youtube.com/watch?v=6T2xgUCp9W0">L'argent, une technologie devenu toxique</a>
-> Cette video montre que l'argent tel que nous le connaissons est une monnaie dite "rare" qui oblige à créer de la compétition entre les individus et qu'en parallèle il impacte le monde d'un manière qui n'est pas souhaitable (problème sociétaux, environnementaux, climatique, ...)
+> Cette video montre que l'argent tel que nous le connaissons est une monnaie dite "rare" qui oblige à créer de la compétition entre les individus et qu'en parallèle il impacte le monde d'un manière qui n'est pas souhaitable (problème sociétaux / politiques, environnementaux, climatiques, ...).
+> L'argent "tel qu'il existe aujourd'hui ne favorise pas la coopération, pourtant nécessaire pour créer des synergies entre les acteurs économiques (au lieu de les opposer)
 
 <a href="https://www.youtube.com/watch?v=ihyrvBADlkI&list=PLMgJ9UQjGoTHDZp_PyOmALCy_hKpWWiql">L'économie post-argent</a> 
 > Cette video nous aide à sortir de "ghetto mental" de l'argent d'aujoud'hui en proposant de nouvelles monnaies accompagnant de nouveaux types de fonctionnnement
