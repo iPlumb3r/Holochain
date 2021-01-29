@@ -36,7 +36,7 @@ Les video suivantes de <a href="https://noubel.com/">Jean-François Noubel</a> p
 
 
 ## Unenclosable carrier
-To Be Completed ...
+Cette série d'articles de Art Brock intitulée <a href="https://medium.com/holochain/unenclosable-carriers-and-the-future-of-communication-4ac6045ac894">Unenclosable Carriers and the Future of Communication</a>" nous plonge au coeur de la problèmatique des réseaux de communication qui nous servent à échanger nos messages
 
 
 
