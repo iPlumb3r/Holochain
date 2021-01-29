@@ -35,10 +35,7 @@ Les video suivantes de <a href="https://noubel.com/">Jean-François Noubel</a> p
 > Cette video nous aide à sortir de "ghetto mental" de l'argent d'aujoud'hui en proposant de nouvelles monnaies accompagnant de nouveaux types de fonctionnnement
 
 
-## Unenclosable carrier
+## Unenclosable Carrier
 Cette série d'articles de Art Brock intitulée <a href="https://medium.com/holochain/unenclosable-carriers-and-the-future-of-communication-4ac6045ac894">Unenclosable Carriers and the Future of Communication</a>" nous plonge au coeur de la problèmatique des réseaux de communication qui nous servent à échanger nos messages
 
-
-
-## Biomimétisme
-To Be Completed ...
+## User-Centric Application
