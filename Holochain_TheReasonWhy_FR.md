@@ -19,7 +19,7 @@ La vision qui a conduit à l'émergence d'Holochain vient de la volonté de pouv
 Malheuresement, il existe 3 freins majeur à la mise en oeuvre de cette vision 
 * L'argent "rare" qui poussent les acteurs écomiques à la compétitions plutôt qu'à la coopérarion
 * Les canaux de communication propriétaires qui permettent un contrôle potentiel des messages qui y circulent
-* Des architecture de systèmes d'information centralisé et/ou data-dentric qui pose des problèmes d'efficacité fonctionnelle et de scalabilité technique
+* Des architectures de systèmes d'information centralisées (et data-centric) qui pose des problèmes d'efficacité fonctionnelle et de scalabilité technique
 
 Il faut donc tout revoir de fond en comble et c'est exactement ce que propose l'écosystème MetaCurrency / Holochain / HOLO
 
