@@ -1,7 +1,7 @@
 # Les motivations de l'initiative Holochain
 
 ## Préambule
-Pour comprendre #Holochain plus en avant que son simple status de __protocole permettant de développer des applications distribuées__ ; il est nécessaire au préalable de comprendre les motivations qui ont conduit à sa génèse.
+Pour comprendre Holochain plus en avant que son simple status de __protocole permettant de développer des applications distribuées__ ; il est nécessaire au préalable de comprendre les motivations qui ont conduit à sa génèse.
 
 Elles sont multiples et prennent racine au coeur de disciplines très variées : 
 * Intelligence collective
@@ -14,10 +14,18 @@ Elles sont multiples et prennent racine au coeur de disciplines très variées :
 
 ## En bref : le fil rouge ...
 La vision qui a conduit à l'émergence d'Holochain vient de la volonté de pouvoir fonctionner à l'échelle de la planète comme dans un village ...    
-... afin de pouvoir coordoner des __individus et/ou des communautés__ qui partagent des __valeurs et/ou des intérêts__ communs.
+... afin des __individus et/ou des communautés__ qui partagent des __valeurs et/ou des intérêts__ communs puissent se coordonner par eux-même.
 
+Malheuresement, il existe 3 freins majeur à la mise en oeuvre de cette vision 
+* L'argent "rare" qui poussent les acteurs écomiques à la compétitions plutôt qu'à la coopérarion
+* Les canaux de communication propriétaires qui permettent un contrôle potentiel des messages qui y circulent
+* Des architecture de systèmes d'information centralisé et/ou data-dentric qui pose des problèmes d'efficacité fonctionnelle et de scalabilité technique
 
-## Passer à l'échelle
+Il faut donc tout revoir de fond en comble et c'est exactement ce que propose l'écosystème MetaCurrency / Holochain / HOLO
+
+Pour comprendre le contexte des mutations et des conditions nécessaires à la réalisation d'une telle vision, il est opportuns de prendre connaissances des videos et artciles ci-après.
+
+## De l'argent-rare au crédit-mutuel
 
 Les video suivantes de <a href="https://noubel.com/">Jean-François Noubel</a> permettent de bien comprendre la transition sociétale qui est en train de s'opérer.
 > Les disciplines à l'oeuvre ici sont essentiellement l'intelligence collective, l'économie en générale et ses aspects monétaires en particulier.
@@ -35,7 +43,8 @@ Les video suivantes de <a href="https://noubel.com/">Jean-François Noubel</a> p
 > Cette video nous aide à sortir de "ghetto mental" de l'argent d'aujoud'hui en proposant de nouvelles monnaies accompagnant de nouveaux types de fonctionnnement
 
 
-## Unenclosable Carrier
+## Des canaux de communication contrôlés aux canaux "non enfermables"
 Cette série d'articles de Art Brock intitulée <a href="https://medium.com/holochain/unenclosable-carriers-and-the-future-of-communication-4ac6045ac894">Unenclosable Carriers and the Future of Communication</a>" nous plonge au coeur de la problèmatique des réseaux de communication qui nous servent à échanger nos messages
 
-## User-Centric Application
+## Des architectures centralisés (et data-centric) à l'architecture distribuée (et user-centric)
+
