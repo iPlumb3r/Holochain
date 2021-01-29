@@ -40,7 +40,8 @@ Les video suivantes de <a href="https://noubel.com/">Jean-François Noubel</a> p
 > L'argent "tel qu'il existe aujourd'hui ne favorise pas la coopération, pourtant nécessaire pour créer des synergies entre les acteurs économiques (au lieu de les opposer)
 
 <a href="https://www.youtube.com/watch?v=ihyrvBADlkI&list=PLMgJ9UQjGoTHDZp_PyOmALCy_hKpWWiql">L'économie post-argent</a> 
-> Cette video nous aide à sortir de "ghetto mental" de l'argent d'aujoud'hui en proposant de nouvelles monnaies accompagnant de nouveaux types de fonctionnnement
+> Cette video nous aide à sortir de "ghetto mental" de l'argent d'aujourd'hui en proposant une constellation monétaire accompagnant de nouveaux types de fonctionnnement ...    
+... . avec bien sûr des monnaies pour acheter et/ou vendre (basé sur le principe du crédit mutuel), mais aussi des monnaies pour incarner de la confiance, la réputation, la fidélité, ...
 
 
 ## Des canaux de communication contrôlés aux canaux "non enfermables"
