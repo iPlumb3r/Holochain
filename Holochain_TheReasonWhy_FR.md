@@ -50,7 +50,7 @@ Dans cette série d'articles intitulée <a href="https://medium.com/holochain/un
 > Il est donc crucial de changer tout cela et d'utiliser des canaux de communication "non enclosable" pour échanger nos messages
 > Il est aussi essentiel de prévoir des mécanismes de "forkability" pour permettre l'émergence de systèmes alternatifs
 
-Holochain est "IP-agnostic", c'est à dire que le protocole à été conçu pour fonctionner indépendement de TCP/IP ...    
+Holochain est "IP-agnostic", c'est à dire que le protocole a été conçu pour fonctionner indépendement de TCP/IP ...    
 ... et donc en utilisant potentielement d'autres types de réseau (Bluetooth, Radio Amateur, ...)
 
 
