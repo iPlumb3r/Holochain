@@ -45,7 +45,8 @@ Les video suivantes de <a href="https://noubel.com/">Jean-François Noubel</a> p
 
 
 ## Des canaux de communication contrôlés aux canaux "non enfermables"
-Cette série d'articles de Art Brock intitulée <a href="https://medium.com/holochain/unenclosable-carriers-and-the-future-of-communication-4ac6045ac894">Unenclosable Carriers and the Future of Communication</a>" nous plonge au coeur de la problèmatique des réseaux de communication qui nous servent à échanger nos messages
+Cette série d'articles de Art Brock intitulée <a href="https://medium.com/holochain/unenclosable-carriers-and-the-future-of-communication-4ac6045ac894">Unenclosable Carriers and the Future of Communication</a>" nous plonge au coeur de la problèmatique des réseaux de communication qui nous servent à échanger nos messages.
+> Art Brock nous invite à constater que la "pile technique" qui constitue l'Internet actuel est contrôlé à chaque niveau par un acteur économique "incontournable" (FAI, Registar, ICANN, ...) dont il nous est quasi-impossible de nous passer ... 
 
 ## Des architectures centralisés (et data-centric) à l'architecture distribuée (et user-centric)
 
