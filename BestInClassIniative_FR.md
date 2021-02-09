@@ -91,7 +91,7 @@ Ce point à été largement abordé dans la 1ere partie de ce document.
 > "Comment Holochain a t-il été implementé ?"
 
 Holochain à fait l'objet d'un 1er prototype jettable en Go et d'un 2nd en Rust nommé "Redux" ...   
-... puis ifnallement d'une version opérationelle, égalemen en Rust, nommé "RSM" (Refractored State Model)
+... puis finallement d'une version opérationelle, égalemen en Rust, nommé "RSM" (Refractored State Model)
 
 On peut compléter en disant que :
 * chaque application dispose d'un "ADN" qui est en fait le hash cryptographique de son code source et qui permet de s'assurer que chaque participant du reseau "joue" bien la même "partie" que les autres (corrolaire : si quelqu'un modifie une seule virgule du code, le hash cryptographiquede l'application sera radicalement différent et ses transactions ne seront alors pas acceptées par les autres participants !)   
