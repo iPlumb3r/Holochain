@@ -79,7 +79,7 @@ Dans cette section l'idée est de montrer que l'initiative #Holochain est pertin
 
 En bref, on peut dire que la raison d'être de l'écosystème <a href="http://metacurrency.org/">MetaCurrency</a> / <a href="http://holochain.org/">Holochain</a>  / <a href="http://holo.host/">HOLO</a> est de fournir les outils permettant à des __communautés qui partagent des valeurs__ ou des intérêts communs de __pouvoir se coordonner à large échelle__.
 
-C'est un programme multi-disciplinaire, large et profond, aux ramifications multiples et variées ...
+C'est un programme multi-disciplinaire, large et profond, aux ramifications multiples et variées ...   
 ... qui tranche avec la simplicité de la finalité de Bitcoin qui est d'être une réserve de valeur (aka "digital gold")
 
 ### Aspect Fonctionel
