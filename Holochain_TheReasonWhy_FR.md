@@ -17,7 +17,7 @@ La vision qui a conduit à l'émergence d'Holochain vient de la volonté de pouv
 ... afin que des __individus et/ou des communautés__ qui partagent des __valeurs et/ou des intérêts__ communs puissent se coordonner entre-eux.
 
 Malheureusement, il existe 3 freins majeurs à la mise en oeuvre de cette vision 
-* L'argent "rare" qui poussent les acteurs écomiques à la __compétition__ plutôt qu'à la __coopération__
+* L'argent "rare" qui poussent les acteurs économiques à la __compétition__ plutôt qu'à la __coopération__
 * Les canaux de communication __propriétaires__ qui permettent un __contrôle__ potentiel des messages qui y circulent
 * Des architectures de systèmes d'information __centralisées__ (et data-centric) qui posent des problèmes d'__efficience fonctionnelle__ et de __scalabilité technique__
 
