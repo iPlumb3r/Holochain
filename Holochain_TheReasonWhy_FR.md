@@ -7,8 +7,8 @@ Elles sont multiples et prennent racine au coeur de disciplines très variées :
 * Intelligence collective
 * Economie et aspect monétaire
 * Communication et réseaux
-* Biologie (et Biomimetisme)
-* Mathématiques (et Crypto-Technologies)
+* Biologie et biomimetisme
+* Mathématiques et crypto-technologies
 * ...
 
 
