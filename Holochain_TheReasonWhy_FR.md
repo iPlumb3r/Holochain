@@ -23,7 +23,7 @@ Malheureusement, il existe 3 freins majeurs à la mise en oeuvre de cette vision
 
 Il faut donc tout revoir de fond en comble et c'est exactement ce que propose l'écosystème MetaCurrency / Holochain / HOLO
 
-Pour comprendre le contexte des mutations et des conditions nécessaires à la réalisation d'une telle vision, il est opportun de prendre connaissances des videos et artiles ci-après.
+Pour comprendre le contexte des mutations et des conditions nécessaires à la réalisation d'une telle vision, il est opportun de prendre connaissances des videos et articles ci-après.
 
 ## De l'argent-rare au crédit-mutuel
 
