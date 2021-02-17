@@ -67,5 +67,3 @@ Contrairement aux approches basées sur une technologie blockchain, avec Holocha
 * Il n'y a PAS besoin de minage
 
 
-Keycap asterisk There is no #bottleneck.
-
