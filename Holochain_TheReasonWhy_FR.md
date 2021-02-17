@@ -14,7 +14,7 @@ Elles sont multiples et prennent racine au coeur de disciplines très variées :
 
 ## En bref : le fil rouge ...
 La vision qui a conduit à l'émergence d'Holochain vient de la volonté de pouvoir fonctionner à l'échelle de la planète comme dans un village ...    
-... afin des __individus et/ou des communautés__ qui partagent des __valeurs et/ou des intérêts__ communs puissent se coordonner par eux-même.
+... afin que des __individus et/ou des communautés__ qui partagent des __valeurs et/ou des intérêts__ communs puissent se coordonner entre-eux.
 
 Malheuresement, il existe 3 freins majeur à la mise en oeuvre de cette vision 
 * L'argent "rare" qui poussent les acteurs écomiques à la compétitions plutôt qu'à la coopérarion
