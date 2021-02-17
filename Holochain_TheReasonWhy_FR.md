@@ -35,7 +35,7 @@ Les video suivantes de <a href="https://noubel.com/">Jean-François Noubel</a> p
 > Cette video présente les différents types d'intelligence collective (Tribale => Pyramidale => Holomidale) qui se sont succédés dans l'histoire de l'humanité. Il démontre que le système "Pyramidal" (qui incarne le mode de fonctionnement de l'écrasante majorité des organisations actuelles : états, entreprises, religions, ...) a atteint ses propres limites et qu'il ne peux plus faire face aux enjeux "systémiques" d'aujourd'hui ... et qui est grand temps de s'organiser en mode "Holomidal". 
 > Il est a noter que l'argent tel que nous le connaissons aujourd'hui est une technologie qui est nait en même temps que le mode "Pyramidal" car dans le contexte du mode "Tribal" les humains utilisaient plus volontier des systèmes à base de "crédit mutuel" !
 
-<a href="https://www.youtube.com/watch?v=6T2xgUCp9W0">L'argent, une technologie devenu toxique</a>
+<a href="https://www.youtube.com/watch?v=6T2xgUCp9W0">L'argent, une technologie devenue toxique</a>
 > Cette video montre que l'argent tel que nous le connaissons est une monnaie dite "rare" qui oblige à créer de la compétition entre les individus et qu'en parallèle il impacte le monde d'un manière qui n'est pas souhaitable (problème sociétaux / politiques, environnementaux, climatiques, ...).
 > L'argent "tel qu'il existe aujourd'hui ne favorise pas la coopération, pourtant nécessaire pour créer des synergies entre les acteurs économiques (au lieu de les opposer)
 
