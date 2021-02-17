@@ -55,4 +55,17 @@ Holochain est "IP-agnostic", c'est à dire que le protocole a été conçu pour 
 
 
 ## Des architectures centralisés (et data-centric) à l'architecture distribuée (et user-centric)
-Les systèmes d'informations que nous connaissons aujourd'hui ont pour la plupart une architecture centralisé (conforme au paradigme "client-serveur") et sont centré sur la donnée (via des bases de données, parfois répliquées)
+Les systèmes d'informations que nous connaissons aujourd'hui ont pour la plupart une architecture centralisé (conforme au paradigme "client-serveur") et sont centrés sur la donnée (via des bases de données, parfois massivement répliquées comme dans le cas de la blockchain).
+
+Holochain propose une approche radicalement différente en mettant l'utilisateur au centre du système d'information.
+Contrairement aux approches basées sur une technologie blockchain, avec Holochain :
+* Il n'y a PAS de consensus global
+* Il n'y a PAS de file de transaction 
+* Il n'y a PAS de base de données "monolitique" (répliqué x fois)
+* Il n'y a PAS de "fee" de transaction
+* Il n'y a PAS de goulot d'étrangelement
+* Il n'y a PAS besoin de minage
+
+
+Keycap asterisk There is no #bottleneck.
+
