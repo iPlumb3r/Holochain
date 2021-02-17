@@ -55,4 +55,4 @@ Holochain est "IP-agnostic", c'est à dire que le protocole a été conçu pour 
 
 
 ## Des architectures centralisés (et data-centric) à l'architecture distribuée (et user-centric)
-
+Les systèmes d'informations que nous connaissons aujourd'hui ont pour la plupart une architecture centralisé (conforme au paradigme "client-serveur") et sont centré sur la donnée (via des bases de données, parfois répliquées)
