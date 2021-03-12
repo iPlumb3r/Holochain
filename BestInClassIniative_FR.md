@@ -103,7 +103,7 @@ On peut compléter en disant que :
 Contrairement aux autres projets de la cryptosphère, l'équipe Holochain :
 * à préféré la qualité du code livré aux délais de livraison
 * à favorisé la communication auprès des développeurs plutôt qu'auprès des investisseurs
-* se projette plutôt surle moyen-long terme plutôt que sur le court terme
+* se projette plutôt sur le moyen-long terme plutôt que sur le court terme
 
 Ces choix lui ont souvent été reproché, mais les résultats commence à être au rendez-vous :    
 > Le produit existe vraiment, contrairement à d'autres projets qui n'en sont toujours qu'au stade du "white paper" !   
