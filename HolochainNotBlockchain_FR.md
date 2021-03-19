@@ -72,7 +72,7 @@ Pour affiner la comparaison entre les technologies Blockchain-based et Holochain
 
 Status / <a href="https://holo.host/roadmap/">RoadMap</a>
 -
-Le projet est actuellement en phase 3, étape "Closed Alpha Testnet"
+Le projet est actuellement en phase 3, étape "Open Alpha Testnet"
 
 Ressources
 -
