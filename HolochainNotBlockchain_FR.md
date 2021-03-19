@@ -74,7 +74,6 @@ Status / <a href="https://holo.host/roadmap/">RoadMap</a>
 -
 Le projet est actuellement en phase 3, étape "Closed Alpha Testnet"
 
-
 Ressources
 -
 Pour allez plus loin sur ce sujet, ci-après quelques liens :
